@@ -1,0 +1,21 @@
+# Netlify configuration for Motorola Phone Comparison Tool
+# This file tells Netlify how to serve your site
+
+[build]
+  publish = "."   # serve files from root of repo
+
+# Set india_phone_comparison_v7.html as the homepage
+[[redirects]]
+  from = "/"
+  to   = "/india_phone_comparison_v7.html"
+  status = 200
+
+# Allow fetching prices.json from GitHub (CORS headers not needed
+# since the fetch is from the browser directly to raw.githubusercontent.com)
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options        = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Cache-Control          = "public, max-age=3600"
