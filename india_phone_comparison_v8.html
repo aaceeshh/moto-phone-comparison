@@ -209,93 +209,9 @@ footer a{color:var(--moto-light);}
 ::-webkit-scrollbar{width:4px;height:4px;}
 ::-webkit-scrollbar-track{background:var(--bg);}
 ::-webkit-scrollbar-thumb{background:var(--border2);border-radius:3px;}
-
-/* ================================================================
-   AUTH OVERLAY
-   ================================================================ */
-#authOverlay{
-  position:fixed;inset:0;z-index:9999;
-  background:var(--bg);
-  display:flex;align-items:center;justify-content:center;
-  padding:20px;
-}
-#authOverlay.hidden{display:none;}
-
-.auth-card{
-  background:var(--s2);
-  border:1px solid var(--border2);
-  border-top:3px solid var(--moto);
-  border-radius:12px;
-  padding:36px 32px;
-  width:100%;max-width:420px;
-  text-align:center;
-}
-.auth-logo{
-  font-family:var(--font-model);font-weight:700;font-size:1.3rem;
-  color:#fff;margin-bottom:4px;
-}
-.auth-logo span{color:var(--moto);}
-.auth-sub{font-size:.8rem;color:var(--muted);margin-bottom:28px;line-height:1.5;}
-.auth-label{
-  display:block;text-align:left;
-  font-size:.68rem;font-weight:700;color:var(--muted);
-  text-transform:uppercase;letter-spacing:.6px;margin-bottom:6px;
-}
-.auth-input{
-  width:100%;padding:11px 14px;
-  background:var(--s3);border:1px solid var(--border2);
-  border-radius:7px;color:var(--text);
-  font-family:"DM Sans",sans-serif;font-size:.88rem;
-  outline:none;transition:border-color .15s;margin-bottom:14px;
-}
-.auth-input:focus{border-color:var(--moto);}
-.auth-btn{
-  width:100%;padding:11px;border:none;border-radius:7px;
-  background:var(--moto);color:#fff;
-  font-family:"DM Sans",sans-serif;font-size:.88rem;font-weight:700;
-  cursor:pointer;transition:background .15s;
-}
-.auth-btn:hover{background:var(--moto-light);}
-.auth-btn:disabled{background:var(--muted2);cursor:not-allowed;}
-.auth-msg{
-  margin-top:14px;font-size:.78rem;min-height:20px;
-  line-height:1.5;
-}
-.auth-msg.error{color:#ef4444;}
-.auth-msg.success{color:var(--green-light);}
-.auth-msg.loading{color:var(--muted);}
-.auth-footer{
-  margin-top:24px;padding-top:16px;
-  border-top:1px solid var(--border);
-  font-size:.66rem;color:var(--muted2);
-}
-@media(max-width:480px){
-  .auth-card{padding:28px 20px;}
-  .auth-logo{font-size:1.1rem;}
-}
 </style>
 </head>
 <body>
-
-<!-- ================================================================
-     AUTH OVERLAY — shown until email is verified
-     ================================================================ -->
-<div id="authOverlay">
-  <div class="auth-card">
-    <div class="auth-logo">Motorola <span>India</span> vs Competition</div>
-    <div class="auth-sub">Enter your registered email address to access the comparison tool.</div>
-    <label class="auth-label" for="authEmail">Email Address</label>
-    <input class="auth-input" type="email" id="authEmail"
-      placeholder="yourname@company.com"
-      autocomplete="email" autocapitalize="off" autocorrect="off"/>
-    <button class="auth-btn" id="authBtn" onclick="checkAccess()">🔒 Verify &amp; Access</button>
-    <div class="auth-msg" id="authMsg"></div>
-    <div class="auth-footer">
-      Restricted access &middot; Motorola India Internal Tool<br/>
-      Prepared by Ashish Shaw &middot; RSM Motorola India
-    </div>
-  </div>
-</div>
 
 <div class="sel-bar">
   <span class="sel-logo">Motorola <span>India</span> vs Competition</span>
@@ -373,121 +289,6 @@ footer a{color:var(--moto-light);}
 </footer>
 
 <script>
-// ================================================================
-// AUTH SYSTEM
-// ================================================================
-// IMPORTANT: Replace this URL with your Google Apps Script Web App URL
-// Get it from: Apps Script → Deploy → New Deployment → Web App → Copy URL
-var APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbztPsqrWib2w1VXWqEHTz2R_NljtPm7BluII5VXxujzVJF6G2EOnz3f0I56CqmNmhbmFg/exec";
-
-var SESSION_KEY   = "moto_auth_email";
-var SESSION_EXP   = "moto_auth_expiry";
-var SESSION_DAYS  = 7;  // remember for 7 days
-
-function initAuth() {
-  // Check if already authenticated and session not expired
-  var savedEmail  = localStorage.getItem(SESSION_KEY);
-  var savedExpiry = localStorage.getItem(SESSION_EXP);
-  
-  if (savedEmail && savedExpiry) {
-    var expiry = parseInt(savedExpiry, 10);
-    if (Date.now() < expiry) {
-      // Valid session — hide overlay and show tool
-      grantAccess(savedEmail, false);
-      return;
-    } else {
-      // Session expired — clear it
-      localStorage.removeItem(SESSION_KEY);
-      localStorage.removeItem(SESSION_EXP);
-    }
-  }
-  
-  // Show auth overlay — user must verify
-  document.getElementById("authOverlay").classList.remove("hidden");
-  
-  // Allow pressing Enter to submit
-  document.getElementById("authEmail").addEventListener("keydown", function(e) {
-    if (e.key === "Enter") checkAccess();
-  });
-}
-
-function checkAccess() {
-  var email = document.getElementById("authEmail").value.toLowerCase().trim();
-  var msg   = document.getElementById("authMsg");
-  var btn   = document.getElementById("authBtn");
-  
-  // Basic client-side validation
-  if (!email || email.indexOf("@") < 0 || email.indexOf(".") < 0) {
-    msg.className = "auth-msg error";
-    msg.textContent = "Please enter a valid email address.";
-    return;
-  }
-  
-  // Show loading state
-  btn.disabled    = true;
-  btn.textContent = "Checking...";
-  msg.className   = "auth-msg loading";
-  msg.textContent = "Verifying your access...";
-  
-  // Call Google Apps Script API
-  var url = APPS_SCRIPT_URL + "?email=" + encodeURIComponent(email) + "&t=" + Date.now();
-  
-  fetch(url)
-    .then(function(res) {
-      if (!res.ok) throw new Error("HTTP " + res.status);
-      return res.json();
-    })
-    .then(function(data) {
-      if (data.allowed === true) {
-        // Save session for 7 days
-        var expiry = Date.now() + (SESSION_DAYS * 24 * 60 * 60 * 1000);
-        localStorage.setItem(SESSION_KEY, email);
-        localStorage.setItem(SESSION_EXP, expiry.toString());
-        
-        msg.className   = "auth-msg success";
-        msg.textContent = "Access granted! Loading tool...";
-        
-        setTimeout(function() { grantAccess(email, true); }, 600);
-        
-      } else {
-        // Access denied
-        btn.disabled    = false;
-        btn.textContent = "&#128274; Verify & Access";
-        msg.className   = "auth-msg error";
-        
-        if (data.reason === "not_in_list") {
-          msg.textContent = "This email is not on the access list. Contact Ashish Shaw to request access.";
-        } else if (data.reason === "invalid_email") {
-          msg.textContent = "Please enter a valid email address.";
-        } else {
-          msg.textContent = "Access denied. Please check your email and try again.";
-        }
-      }
-    })
-    .catch(function(err) {
-      btn.disabled    = false;
-      btn.textContent = "&#128274; Verify & Access";
-      msg.className   = "auth-msg error";
-      msg.textContent = "Could not verify access. Please check your connection and try again.";
-      console.error("Auth error:", err);
-    });
-}
-
-function grantAccess(email, isNew) {
-  // Hide auth overlay
-  document.getElementById("authOverlay").classList.add("hidden");
-  
-  // Update footer to show who is logged in
-  var footer = document.querySelector("footer");
-  if (footer && isNew) {
-    var loginNote = document.createElement("div");
-    loginNote.style.cssText = "margin-top:6px;font-size:.66rem;color:var(--green-light);";
-    loginNote.textContent   = "&#10003; Logged in as " + email + " (session valid 7 days)";
-    footer.appendChild(loginNote);
-  }
-}
-
-
 // ================================================================
 // DATA
 // ================================================================
@@ -1446,7 +1247,6 @@ function compare() {
 document.querySelectorAll(".sel-dd").forEach(function(dd) {
   dd.addEventListener("keydown", function(e) { if (e.key === "Enter") compare(); });
 });
-initAuth();
 initDropdowns();
 loadLivePrices();
 </script>
