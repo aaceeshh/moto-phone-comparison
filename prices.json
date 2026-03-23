@@ -1,7 +1,701 @@
 {
-  "last_updated": "Not yet run",
+  "last_updated": "23 Mar 2026 14:39 IST",
   "source": "Flipkart.com",
   "total_scraped": 0,
-  "total_models": 0,
-  "phones": []
+  "total_models": 77,
+  "phones": [
+    {
+      "model": "Moto G06 Power",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=moto%20g06%20power&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:15 IST"
+    },
+    {
+      "model": "Moto G35 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=moto%20g35%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:15 IST"
+    },
+    {
+      "model": "Moto G45 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=moto%20g45%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:16 IST"
+    },
+    {
+      "model": "Moto G57 Power 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=moto%20g57%20power%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:16 IST"
+    },
+    {
+      "model": "Moto G67 Power 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=moto%20g67%20power%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:16 IST"
+    },
+    {
+      "model": "Moto G86 Power 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=moto%20g86%20power%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:16 IST"
+    },
+    {
+      "model": "Moto G96 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=moto%20g96%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:17 IST"
+    },
+    {
+      "model": "Motorola Edge 60 Stylus",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=motorola%20edge%2060%20stylus&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:17 IST"
+    },
+    {
+      "model": "Motorola Edge 60 Fusion",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=motorola%20edge%2060%20fusion&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:17 IST"
+    },
+    {
+      "model": "Motorola Edge 70 Fusion",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=motorola%20edge%2070%20fusion&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:18 IST"
+    },
+    {
+      "model": "Motorola Edge 70",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=motorola%20edge%2070&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:18 IST"
+    },
+    {
+      "model": "Motorola Edge 60 Pro",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=motorola%20edge%2060%20pro&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:18 IST"
+    },
+    {
+      "model": "Motorola Signature",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=motorola%20signature&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:19 IST"
+    },
+    {
+      "model": "Motorola Razr 60",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=motorola%20razr%2060&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:19 IST"
+    },
+    {
+      "model": "Motorola Razr 60 Ultra",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=motorola%20razr%2060%20ultra&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:19 IST"
+    },
+    {
+      "model": "Samsung A06 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20a06%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:20 IST"
+    },
+    {
+      "model": "Samsung A07 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20a07%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:20 IST"
+    },
+    {
+      "model": "Samsung A17 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20a17%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:20 IST"
+    },
+    {
+      "model": "Samsung F17 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20f17%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:21 IST"
+    },
+    {
+      "model": "Samsung M17 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20m17%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:21 IST"
+    },
+    {
+      "model": "Samsung F36 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20f36%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:21 IST"
+    },
+    {
+      "model": "Samsung M36 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20m36%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:21 IST"
+    },
+    {
+      "model": "Samsung S25 FE",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20s25%20fe&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:22 IST"
+    },
+    {
+      "model": "Samsung S25 Plus",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20s25%20plus&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:22 IST"
+    },
+    {
+      "model": "Samsung S26",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20s26&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:22 IST"
+    },
+    {
+      "model": "Samsung S26+",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20s26%20plus&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:23 IST"
+    },
+    {
+      "model": "Samsung S26 Ultra",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20s26%20ultra&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:23 IST"
+    },
+    {
+      "model": "Samsung Z Flip 7",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20z%20flip%207&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:23 IST"
+    },
+    {
+      "model": "Samsung Z Flip 7 FE",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20z%20flip%207%20fe&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:24 IST"
+    },
+    {
+      "model": "Samsung Z Fold 7",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=samsung%20galaxy%20z%20fold%207&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:24 IST"
+    },
+    {
+      "model": "OnePlus Nord CE 4 Lite",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oneplus%20nord%20ce%204%20lite&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:24 IST"
+    },
+    {
+      "model": "OnePlus Nord CE 4",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oneplus%20nord%20ce%204&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:25 IST"
+    },
+    {
+      "model": "OnePlus Nord CE5",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oneplus%20nord%20ce%205&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:25 IST"
+    },
+    {
+      "model": "OnePlus Nord 4",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oneplus%20nord%204&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:25 IST"
+    },
+    {
+      "model": "OnePlus Nord 5",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oneplus%20nord%205&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:26 IST"
+    },
+    {
+      "model": "OnePlus 13R",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oneplus%2013r&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:26 IST"
+    },
+    {
+      "model": "OnePlus 13",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oneplus%2013&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:26 IST"
+    },
+    {
+      "model": "OnePlus 15 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oneplus%2015%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:27 IST"
+    },
+    {
+      "model": "Realme 14 Pro 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=realme%2014%20pro%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:27 IST"
+    },
+    {
+      "model": "Realme 14 Pro+ 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=realme%2014%20pro%20plus%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:27 IST"
+    },
+    {
+      "model": "Realme 15 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=realme%2015%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:27 IST"
+    },
+    {
+      "model": "Realme 15 Pro 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=realme%2015%20pro%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:28 IST"
+    },
+    {
+      "model": "Realme GT 7 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=realme%20gt%207%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:28 IST"
+    },
+    {
+      "model": "Realme GT 8 Pro 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=realme%20gt%208%20pro%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:28 IST"
+    },
+    {
+      "model": "Redmi Note 14 Pro 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=redmi%20note%2014%20pro%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:29 IST"
+    },
+    {
+      "model": "Redmi Note 14 Pro+ 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=redmi%20note%2014%20pro%20plus%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:29 IST"
+    },
+    {
+      "model": "Redmi Note 15 Pro 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=redmi%20note%2015%20pro%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:29 IST"
+    },
+    {
+      "model": "Redmi Note 15 Pro+ 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=redmi%20note%2015%20pro%20plus%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:30 IST"
+    },
+    {
+      "model": "POCO X7 Pro 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=poco%20x7%20pro%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:30 IST"
+    },
+    {
+      "model": "POCO F7 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=poco%20f7%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:30 IST"
+    },
+    {
+      "model": "Xiaomi 15",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=xiaomi%2015&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:31 IST"
+    },
+    {
+      "model": "Xiaomi 15 Ultra",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=xiaomi%2015%20ultra&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:31 IST"
+    },
+    {
+      "model": "IQOO Neo 10R",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=iqoo%20neo%2010r&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:31 IST"
+    },
+    {
+      "model": "IQOO Neo 10",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=iqoo%20neo%2010&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:31 IST"
+    },
+    {
+      "model": "iQOO 13",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=iqoo%2013&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:32 IST"
+    },
+    {
+      "model": "iQOO 15",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=iqoo%2015&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:32 IST"
+    },
+    {
+      "model": "Vivo T4R 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=vivo%20t4r%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:32 IST"
+    },
+    {
+      "model": "Vivo T4 Pro",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=vivo%20t4%20pro&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:33 IST"
+    },
+    {
+      "model": "Vivo T4 Ultra",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=vivo%20t4%20ultra&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:33 IST"
+    },
+    {
+      "model": "Vivo V60 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=vivo%20v60%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:33 IST"
+    },
+    {
+      "model": "Vivo X300",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=vivo%20x300&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:34 IST"
+    },
+    {
+      "model": "Oppo K13 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oppo%20k13%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:34 IST"
+    },
+    {
+      "model": "Oppo F31 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oppo%20f31%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:34 IST"
+    },
+    {
+      "model": "Oppo Reno 15",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oppo%20reno%2015&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:35 IST"
+    },
+    {
+      "model": "Oppo Find X8",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oppo%20find%20x8&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:35 IST"
+    },
+    {
+      "model": "Oppo Find X9",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=oppo%20find%20x9&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:35 IST"
+    },
+    {
+      "model": "CMF Phone 2 Pro",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=cmf%20phone%202%20pro&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:36 IST"
+    },
+    {
+      "model": "Nothing Phone 3A",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=nothing%20phone%203a&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:36 IST"
+    },
+    {
+      "model": "Nothing Phone 3A Pro",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=nothing%20phone%203a%20pro&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:36 IST"
+    },
+    {
+      "model": "Nothing Phone 3",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=nothing%20phone%203&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:37 IST"
+    },
+    {
+      "model": "ZERO 40 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=infinix%20zero%2040%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:37 IST"
+    },
+    {
+      "model": "GT 30 Pro",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=infinix%20gt%2030%20pro&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:37 IST"
+    },
+    {
+      "model": "Tecno Pova Curve 2 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=tecno%20pova%20curve%202%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:37 IST"
+    },
+    {
+      "model": "Tecno Phantom V Fold 2 5G",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=tecno%20phantom%20v%20fold%202%205g&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:38 IST"
+    },
+    {
+      "model": "iPhone 16 128GB",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=apple%20iphone%2016%20128gb&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:38 IST"
+    },
+    {
+      "model": "iPhone 16 Pro 256GB",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=apple%20iphone%2016%20pro%20256gb&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:38 IST"
+    },
+    {
+      "model": "iPhone 17 256GB",
+      "price": null,
+      "price_num": null,
+      "url": "https://www.flipkart.com/search?q=apple%20iphone%2017%20256gb&otracker=search&marketplace=FLIPKART",
+      "source": "Flipkart",
+      "status": "http_error",
+      "updated": "23 Mar 2026 14:39 IST"
+    }
+  ]
 }
