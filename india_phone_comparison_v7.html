@@ -155,6 +155,8 @@ tbody tr:hover td{background:var(--s2)!important;}
 .v-price:hover{color:#ffe066;text-decoration:underline;}
 .v-arrow{font-size:.6rem;opacity:.5;}
 .v-tbd{color:var(--muted);font-size:.72rem;font-style:italic;}
+.live-dot{color:#22c55e;font-size:.6rem;margin-right:2px;}
+.mop-note{font-size:.64rem;color:var(--muted2);margin-top:1px;}
 
 /* antutu bar */
 .antutu-bar{display:flex;flex-direction:column;gap:3px;align-items:center;}
@@ -268,8 +270,9 @@ footer a{color:var(--moto);}
 </div>
 
 <footer>
-  Prices from Flipkart.com · MOP base from internal tracker · Specs: Official Motorola Spec Sheet (Mar 2026), GSMArena, 91mobiles ·
-  AnTuTu v10/v11 scores from nanoreview, gsmarena, beebom · Last rendered: <span id="tsLoad">—</span> · <a href="https://www.gsmarena.com" target="_blank">GSMArena</a>
+  <div id="priceStatus" style="margin-bottom:6px;font-size:.72rem;">⏳ Fetching live prices from GitHub...</div>
+  Specs: Official Motorola Spec Sheet (Mar 2026) · GSMArena · 91mobiles ·
+  AnTuTu v10/v11 · Last rendered: <span id="tsLoad">—</span> · <a href="https://www.gsmarena.com" target="_blank">GSMArena</a>
 </footer>
 
 <script>
@@ -779,6 +782,34 @@ let currentMode = "comp"; // "comp" or "moto"
 let priceMin=0, priceMax=999999;
 
 // ═══════════════════════════════════════════════════════════════
+// LIVE PRICES — fetched from GitHub (updated daily at 10am IST)
+// ═══════════════════════════════════════════════════════════════
+const PRICES_URL = "https://raw.githubusercontent.com/aaceeshh/moto-phone-comparison/main/prices.json";
+let livePrice = {}; // modelName → price_num (populated on load)
+let pricesMeta = { last_updated: "Loading...", total_scraped: 0, total_models: 0 };
+
+async function loadLivePrices(){
+  const statusEl = document.getElementById("priceStatus");
+  try {
+    const res = await fetch(PRICES_URL + "?t=" + Date.now()); // cache-bust
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    pricesMeta = data;
+    (data.phones || []).forEach(p => {
+      if(p.price_num) livePrice[p.model] = p.price_num;
+    });
+    const ok = Object.keys(livePrice).length;
+    if(statusEl) statusEl.innerHTML =
+      `<span style="color:#22c55e">● Live prices loaded</span> · ${ok} models · Last updated: <strong>${data.last_updated || "—"}</strong>`;
+    console.log(`✅ Live prices loaded: ${ok} models · ${data.last_updated}`);
+  } catch(e) {
+    if(statusEl) statusEl.innerHTML =
+      `<span style="color:#f0b429">● Using base MOP prices</span> · GitHub prices unavailable (${e.message})`;
+    console.warn("⚠️ Could not load live prices:", e.message);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════
 // MODE
 // ═══════════════════════════════════════════════════════════════
 function setMode(m){
@@ -828,12 +859,24 @@ function antutuCell(raw){
 
 function variantBlock(variants, modelName){
   if(!variants||!variants.length) return `<span class="na">—</span>`;
+  // Check if we have a live price for this model
+  const live = livePrice[modelName] || null;
   let h=`<table class="vtbl">`;
   variants.forEach(r=>{
     const url=`https://www.flipkart.com/search?q=${encodeURIComponent(modelName+" "+r.v)}`;
     h+=`<tr><td><span class="v-chip">${r.v}</span></td><td>`;
-    if(r.mop>0) h+=`<a class="v-price" href="${url}" target="_blank">${fmtINR(r.mop)}<span class="v-arrow">↗</span></a>`;
-    else h+=`<span class="v-tbd">TBD</span>`;
+    if(live){
+      // Show live price with green dot + MOP in small text below
+      h+=`<a class="v-price" href="${url}" target="_blank">
+            <span class="live-dot" title="Live Flipkart price">●</span> ${fmtINR(live)}<span class="v-arrow">↗</span>
+          </a>
+          <div class="mop-note">MOP: ${fmtINR(r.mop)}</div>`;
+    } else if(r.mop>0){
+      h+=`<a class="v-price" href="${url}" target="_blank">${fmtINR(r.mop)}<span class="v-arrow">↗</span></a>
+          <div class="mop-note">Base MOP price</div>`;
+    } else {
+      h+=`<span class="v-tbd">TBD</span>`;
+    }
     h+=`</td></tr>`;
   });
   return h+`</table>`;
@@ -1278,6 +1321,7 @@ function compare(){
 
 document.querySelectorAll(".sel-dd").forEach(dd=>{dd.addEventListener("keydown",e=>{if(e.key==="Enter")compare();});});
 initDropdowns();
+loadLivePrices(); // fetch live prices from GitHub in background
 </script>
 </body>
 </html>
