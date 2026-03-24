@@ -399,3 +399,242 @@
 2026-03-23 21:54:12,907  INFO  Done. 0/77 prices fetched successfully.
 2026-03-23 21:54:12,907  INFO  Output: /home/runner/work/moto-phone-comparison/moto-phone-comparison/prices.json
 2026-03-23 21:54:12,907  INFO  =================================================================
+2026-03-24 05:40:46,683  INFO  =================================================================
+2026-03-24 05:40:46,683  INFO  Price scraper started — 24 Mar 2026 05:40
+2026-03-24 05:40:46,683  INFO  Running on: GitHub Actions
+2026-03-24 05:40:46,683  INFO  =================================================================
+2026-03-24 05:40:46,684  INFO  [01/77] Moto G06 Power
+2026-03-24 05:41:02,430  ERROR    ✗  Moto G06 Power: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=moto%20g06%20power&otracker=search&marketplace=FLIPKART
+2026-03-24 05:41:02,431  INFO         Using cached: None
+2026-03-24 05:41:04,660  INFO  [02/77] Moto G35 5G
+2026-03-24 05:41:20,368  ERROR    ✗  Moto G35 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=moto%20g35%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:41:20,369  INFO         Using cached: None
+2026-03-24 05:41:22,373  INFO  [03/77] Moto G45 5G
+2026-03-24 05:41:38,074  ERROR    ✗  Moto G45 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=moto%20g45%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:41:38,075  INFO         Using cached: None
+2026-03-24 05:41:40,809  INFO  [04/77] Moto G57 Power 5G
+2026-03-24 05:41:56,506  ERROR    ✗  Moto G57 Power 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=moto%20g57%20power%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:41:56,507  INFO         Using cached: None
+2026-03-24 05:41:59,715  INFO  [05/77] Moto G67 Power 5G
+2026-03-24 05:42:15,435  ERROR    ✗  Moto G67 Power 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=moto%20g67%20power%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:42:15,437  INFO         Using cached: None
+2026-03-24 05:42:18,668  INFO  [06/77] Moto G86 Power 5G
+2026-03-24 05:42:34,407  ERROR    ✗  Moto G86 Power 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=moto%20g86%20power%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:42:34,408  INFO         Using cached: None
+2026-03-24 05:42:36,616  INFO  [07/77] Moto G96 5G
+2026-03-24 05:42:52,319  ERROR    ✗  Moto G96 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=moto%20g96%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:42:52,320  INFO         Using cached: None
+2026-03-24 05:42:54,842  INFO  [08/77] Motorola Edge 60 Stylus
+2026-03-24 05:43:10,577  ERROR    ✗  Motorola Edge 60 Stylus: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=motorola%20edge%2060%20stylus&otracker=search&marketplace=FLIPKART
+2026-03-24 05:43:10,579  INFO         Using cached: None
+2026-03-24 05:43:13,653  INFO  [09/77] Motorola Edge 60 Fusion
+2026-03-24 05:43:29,374  ERROR    ✗  Motorola Edge 60 Fusion: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=motorola%20edge%2060%20fusion&otracker=search&marketplace=FLIPKART
+2026-03-24 05:43:29,376  INFO         Using cached: None
+2026-03-24 05:43:32,345  INFO  [10/77] Motorola Edge 70 Fusion
+2026-03-24 05:43:48,079  ERROR    ✗  Motorola Edge 70 Fusion: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=motorola%20edge%2070%20fusion&otracker=search&marketplace=FLIPKART
+2026-03-24 05:43:48,080  INFO         Using cached: None
+2026-03-24 05:43:51,505  INFO  [11/77] Motorola Edge 70
+2026-03-24 05:44:07,186  ERROR    ✗  Motorola Edge 70: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=motorola%20edge%2070&otracker=search&marketplace=FLIPKART
+2026-03-24 05:44:07,188  INFO         Using cached: None
+2026-03-24 05:44:10,694  INFO  [12/77] Motorola Edge 60 Pro
+2026-03-24 05:44:26,426  ERROR    ✗  Motorola Edge 60 Pro: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=motorola%20edge%2060%20pro&otracker=search&marketplace=FLIPKART
+2026-03-24 05:44:26,427  INFO         Using cached: None
+2026-03-24 05:44:29,665  INFO  [13/77] Motorola Signature
+2026-03-24 05:44:45,380  ERROR    ✗  Motorola Signature: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=motorola%20signature&otracker=search&marketplace=FLIPKART
+2026-03-24 05:44:45,382  INFO         Using cached: None
+2026-03-24 05:44:48,783  INFO  [14/77] Motorola Razr 60
+2026-03-24 05:45:04,525  ERROR    ✗  Motorola Razr 60: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=motorola%20razr%2060&otracker=search&marketplace=FLIPKART
+2026-03-24 05:45:04,526  INFO         Using cached: None
+2026-03-24 05:45:07,864  INFO  [15/77] Motorola Razr 60 Ultra
+2026-03-24 05:45:23,551  ERROR    ✗  Motorola Razr 60 Ultra: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=motorola%20razr%2060%20ultra&otracker=search&marketplace=FLIPKART
+2026-03-24 05:45:23,552  INFO         Using cached: None
+2026-03-24 05:45:27,085  INFO  [16/77] Samsung A06 5G
+2026-03-24 05:45:42,802  ERROR    ✗  Samsung A06 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20a06%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:45:42,803  INFO         Using cached: None
+2026-03-24 05:45:44,894  INFO  [17/77] Samsung A07 5G
+2026-03-24 05:46:00,616  ERROR    ✗  Samsung A07 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20a07%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:46:00,618  INFO         Using cached: None
+2026-03-24 05:46:02,981  INFO  [18/77] Samsung A17 5G
+2026-03-24 05:46:18,715  ERROR    ✗  Samsung A17 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20a17%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:46:18,716  INFO         Using cached: None
+2026-03-24 05:46:21,543  INFO  [19/77] Samsung F17 5G
+2026-03-24 05:46:37,234  ERROR    ✗  Samsung F17 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20f17%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:46:37,235  INFO         Using cached: None
+2026-03-24 05:46:40,467  INFO  [20/77] Samsung M17 5G
+2026-03-24 05:46:56,200  ERROR    ✗  Samsung M17 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20m17%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:46:56,201  INFO         Using cached: None
+2026-03-24 05:46:58,824  INFO  [21/77] Samsung F36 5G
+2026-03-24 05:47:14,540  ERROR    ✗  Samsung F36 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20f36%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:47:14,541  INFO         Using cached: None
+2026-03-24 05:47:17,759  INFO  [22/77] Samsung M36 5G
+2026-03-24 05:47:33,479  ERROR    ✗  Samsung M36 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20m36%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:47:33,481  INFO         Using cached: None
+2026-03-24 05:47:37,086  INFO  [23/77] Samsung S25 FE
+2026-03-24 05:47:52,780  ERROR    ✗  Samsung S25 FE: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20s25%20fe&otracker=search&marketplace=FLIPKART
+2026-03-24 05:47:52,781  INFO         Using cached: None
+2026-03-24 05:47:55,382  INFO  [24/77] Samsung S25 Plus
+2026-03-24 05:48:11,100  ERROR    ✗  Samsung S25 Plus: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20s25%20plus&otracker=search&marketplace=FLIPKART
+2026-03-24 05:48:11,101  INFO         Using cached: None
+2026-03-24 05:48:14,374  INFO  [25/77] Samsung S26
+2026-03-24 05:48:30,079  ERROR    ✗  Samsung S26: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20s26&otracker=search&marketplace=FLIPKART
+2026-03-24 05:48:30,080  INFO         Using cached: None
+2026-03-24 05:48:32,719  INFO  [26/77] Samsung S26+
+2026-03-24 05:48:48,450  ERROR    ✗  Samsung S26+: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20s26%20plus&otracker=search&marketplace=FLIPKART
+2026-03-24 05:48:48,452  INFO         Using cached: None
+2026-03-24 05:48:51,703  INFO  [27/77] Samsung S26 Ultra
+2026-03-24 05:49:07,388  ERROR    ✗  Samsung S26 Ultra: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20s26%20ultra&otracker=search&marketplace=FLIPKART
+2026-03-24 05:49:07,390  INFO         Using cached: None
+2026-03-24 05:49:10,796  INFO  [28/77] Samsung Z Flip 7
+2026-03-24 05:49:26,516  ERROR    ✗  Samsung Z Flip 7: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20z%20flip%207&otracker=search&marketplace=FLIPKART
+2026-03-24 05:49:26,517  INFO         Using cached: None
+2026-03-24 05:49:29,091  INFO  [29/77] Samsung Z Flip 7 FE
+2026-03-24 05:49:44,801  ERROR    ✗  Samsung Z Flip 7 FE: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20z%20flip%207%20fe&otracker=search&marketplace=FLIPKART
+2026-03-24 05:49:44,803  INFO         Using cached: None
+2026-03-24 05:49:48,518  INFO  [30/77] Samsung Z Fold 7
+2026-03-24 05:50:04,235  ERROR    ✗  Samsung Z Fold 7: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=samsung%20galaxy%20z%20fold%207&otracker=search&marketplace=FLIPKART
+2026-03-24 05:50:04,236  INFO         Using cached: None
+2026-03-24 05:50:07,964  INFO  [31/77] OnePlus Nord CE 4 Lite
+2026-03-24 05:50:23,668  ERROR    ✗  OnePlus Nord CE 4 Lite: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oneplus%20nord%20ce%204%20lite&otracker=search&marketplace=FLIPKART
+2026-03-24 05:50:23,669  INFO         Using cached: None
+2026-03-24 05:50:26,398  INFO  [32/77] OnePlus Nord CE 4
+2026-03-24 05:50:42,131  ERROR    ✗  OnePlus Nord CE 4: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oneplus%20nord%20ce%204&otracker=search&marketplace=FLIPKART
+2026-03-24 05:50:42,132  INFO         Using cached: None
+2026-03-24 05:50:45,302  INFO  [33/77] OnePlus Nord CE5
+2026-03-24 05:51:01,006  ERROR    ✗  OnePlus Nord CE5: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oneplus%20nord%20ce%205&otracker=search&marketplace=FLIPKART
+2026-03-24 05:51:01,007  INFO         Using cached: None
+2026-03-24 05:51:04,235  INFO  [34/77] OnePlus Nord 4
+2026-03-24 05:51:19,983  ERROR    ✗  OnePlus Nord 4: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oneplus%20nord%204&otracker=search&marketplace=FLIPKART
+2026-03-24 05:51:19,984  INFO         Using cached: None
+2026-03-24 05:51:23,201  INFO  [35/77] OnePlus Nord 5
+2026-03-24 05:51:38,892  ERROR    ✗  OnePlus Nord 5: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oneplus%20nord%205&otracker=search&marketplace=FLIPKART
+2026-03-24 05:51:38,894  INFO         Using cached: None
+2026-03-24 05:51:41,836  INFO  [36/77] OnePlus 13R
+2026-03-24 05:51:57,569  ERROR    ✗  OnePlus 13R: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oneplus%2013r&otracker=search&marketplace=FLIPKART
+2026-03-24 05:51:57,570  INFO         Using cached: None
+2026-03-24 05:52:01,373  INFO  [37/77] OnePlus 13
+2026-03-24 05:52:17,111  ERROR    ✗  OnePlus 13: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oneplus%2013&otracker=search&marketplace=FLIPKART
+2026-03-24 05:52:17,113  INFO         Using cached: None
+2026-03-24 05:52:19,987  INFO  [38/77] OnePlus 15 5G
+2026-03-24 05:52:35,721  ERROR    ✗  OnePlus 15 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oneplus%2015%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:52:35,722  INFO         Using cached: None
+2026-03-24 05:52:38,136  INFO  [39/77] Realme 14 Pro 5G
+2026-03-24 05:52:53,839  ERROR    ✗  Realme 14 Pro 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=realme%2014%20pro%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:52:53,841  INFO         Using cached: None
+2026-03-24 05:52:57,305  INFO  [40/77] Realme 14 Pro+ 5G
+2026-03-24 05:53:13,041  ERROR    ✗  Realme 14 Pro+ 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=realme%2014%20pro%20plus%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:53:13,042  INFO         Using cached: None
+2026-03-24 05:53:16,284  INFO  [41/77] Realme 15 5G
+2026-03-24 05:53:32,005  ERROR    ✗  Realme 15 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=realme%2015%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:53:32,006  INFO         Using cached: None
+2026-03-24 05:53:35,756  INFO  [42/77] Realme 15 Pro 5G
+2026-03-24 05:53:51,489  ERROR    ✗  Realme 15 Pro 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=realme%2015%20pro%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:53:51,490  INFO         Using cached: None
+2026-03-24 05:53:53,701  INFO  [43/77] Realme GT 7 5G
+2026-03-24 05:54:09,391  ERROR    ✗  Realme GT 7 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=realme%20gt%207%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:54:09,393  INFO         Using cached: None
+2026-03-24 05:54:12,884  INFO  [44/77] Realme GT 8 Pro 5G
+2026-03-24 05:54:28,618  ERROR    ✗  Realme GT 8 Pro 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=realme%20gt%208%20pro%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:54:28,619  INFO         Using cached: None
+2026-03-24 05:54:30,635  INFO  [45/77] Redmi Note 14 Pro 5G
+2026-03-24 05:54:46,345  ERROR    ✗  Redmi Note 14 Pro 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=redmi%20note%2014%20pro%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:54:46,346  INFO         Using cached: None
+2026-03-24 05:54:49,492  INFO  [46/77] Redmi Note 14 Pro+ 5G
+2026-03-24 05:55:05,225  ERROR    ✗  Redmi Note 14 Pro+ 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=redmi%20note%2014%20pro%20plus%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:55:05,227  INFO         Using cached: None
+2026-03-24 05:55:08,116  INFO  [47/77] Redmi Note 15 Pro 5G
+2026-03-24 05:55:23,805  ERROR    ✗  Redmi Note 15 Pro 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=redmi%20note%2015%20pro%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:55:23,806  INFO         Using cached: None
+2026-03-24 05:55:27,323  INFO  [48/77] Redmi Note 15 Pro+ 5G
+2026-03-24 05:55:43,057  ERROR    ✗  Redmi Note 15 Pro+ 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=redmi%20note%2015%20pro%20plus%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:55:43,058  INFO         Using cached: None
+2026-03-24 05:55:46,530  INFO  [49/77] POCO X7 Pro 5G
+2026-03-24 05:56:02,247  ERROR    ✗  POCO X7 Pro 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=poco%20x7%20pro%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:56:02,249  INFO         Using cached: None
+2026-03-24 05:56:05,284  INFO  [50/77] POCO F7 5G
+2026-03-24 05:56:21,034  ERROR    ✗  POCO F7 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=poco%20f7%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:56:21,035  INFO         Using cached: None
+2026-03-24 05:56:24,439  INFO  [51/77] Xiaomi 15
+2026-03-24 05:56:40,143  ERROR    ✗  Xiaomi 15: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=xiaomi%2015&otracker=search&marketplace=FLIPKART
+2026-03-24 05:56:40,144  INFO         Using cached: None
+2026-03-24 05:56:42,792  INFO  [52/77] Xiaomi 15 Ultra
+2026-03-24 05:56:58,527  ERROR    ✗  Xiaomi 15 Ultra: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=xiaomi%2015%20ultra&otracker=search&marketplace=FLIPKART
+2026-03-24 05:56:58,528  INFO         Using cached: None
+2026-03-24 05:57:00,623  INFO  [53/77] IQOO Neo 10R
+2026-03-24 05:57:16,328  ERROR    ✗  IQOO Neo 10R: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=iqoo%20neo%2010r&otracker=search&marketplace=FLIPKART
+2026-03-24 05:57:16,329  INFO         Using cached: None
+2026-03-24 05:57:19,713  INFO  [54/77] IQOO Neo 10
+2026-03-24 05:57:35,475  ERROR    ✗  IQOO Neo 10: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=iqoo%20neo%2010&otracker=search&marketplace=FLIPKART
+2026-03-24 05:57:35,476  INFO         Using cached: None
+2026-03-24 05:57:38,801  INFO  [55/77] iQOO 13
+2026-03-24 05:57:54,493  ERROR    ✗  iQOO 13: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=iqoo%2013&otracker=search&marketplace=FLIPKART
+2026-03-24 05:57:54,494  INFO         Using cached: None
+2026-03-24 05:57:56,559  INFO  [56/77] iQOO 15
+2026-03-24 05:58:12,293  ERROR    ✗  iQOO 15: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=iqoo%2015&otracker=search&marketplace=FLIPKART
+2026-03-24 05:58:12,294  INFO         Using cached: None
+2026-03-24 05:58:15,008  INFO  [57/77] Vivo T4R 5G
+2026-03-24 05:58:30,714  ERROR    ✗  Vivo T4R 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=vivo%20t4r%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:58:30,715  INFO         Using cached: None
+2026-03-24 05:58:32,740  INFO  [58/77] Vivo T4 Pro
+2026-03-24 05:58:48,473  ERROR    ✗  Vivo T4 Pro: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=vivo%20t4%20pro&otracker=search&marketplace=FLIPKART
+2026-03-24 05:58:48,474  INFO         Using cached: None
+2026-03-24 05:58:51,566  INFO  [59/77] Vivo T4 Ultra
+2026-03-24 05:59:07,256  ERROR    ✗  Vivo T4 Ultra: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=vivo%20t4%20ultra&otracker=search&marketplace=FLIPKART
+2026-03-24 05:59:07,257  INFO         Using cached: None
+2026-03-24 05:59:10,304  INFO  [60/77] Vivo V60 5G
+2026-03-24 05:59:26,038  ERROR    ✗  Vivo V60 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=vivo%20v60%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 05:59:26,040  INFO         Using cached: None
+2026-03-24 05:59:28,812  INFO  [61/77] Vivo X300
+2026-03-24 05:59:44,530  ERROR    ✗  Vivo X300: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=vivo%20x300&otracker=search&marketplace=FLIPKART
+2026-03-24 05:59:44,531  INFO         Using cached: None
+2026-03-24 05:59:46,924  INFO  [62/77] Oppo K13 5G
+2026-03-24 06:00:02,657  ERROR    ✗  Oppo K13 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oppo%20k13%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 06:00:02,659  INFO         Using cached: None
+2026-03-24 06:00:05,285  INFO  [63/77] Oppo F31 5G
+2026-03-24 06:00:21,004  ERROR    ✗  Oppo F31 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oppo%20f31%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 06:00:21,005  INFO         Using cached: None
+2026-03-24 06:00:24,461  INFO  [64/77] Oppo Reno 15
+2026-03-24 06:00:40,197  ERROR    ✗  Oppo Reno 15: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oppo%20reno%2015&otracker=search&marketplace=FLIPKART
+2026-03-24 06:00:40,198  INFO         Using cached: None
+2026-03-24 06:00:43,121  INFO  [65/77] Oppo Find X8
+2026-03-24 06:00:58,847  ERROR    ✗  Oppo Find X8: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oppo%20find%20x8&otracker=search&marketplace=FLIPKART
+2026-03-24 06:00:58,849  INFO         Using cached: None
+2026-03-24 06:01:01,558  INFO  [66/77] Oppo Find X9
+2026-03-24 06:01:17,297  ERROR    ✗  Oppo Find X9: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=oppo%20find%20x9&otracker=search&marketplace=FLIPKART
+2026-03-24 06:01:17,298  INFO         Using cached: None
+2026-03-24 06:01:20,695  INFO  [67/77] CMF Phone 2 Pro
+2026-03-24 06:01:36,399  ERROR    ✗  CMF Phone 2 Pro: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=cmf%20phone%202%20pro&otracker=search&marketplace=FLIPKART
+2026-03-24 06:01:36,400  INFO         Using cached: None
+2026-03-24 06:01:40,061  INFO  [68/77] Nothing Phone 3A
+2026-03-24 06:01:55,812  ERROR    ✗  Nothing Phone 3A: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=nothing%20phone%203a&otracker=search&marketplace=FLIPKART
+2026-03-24 06:01:55,813  INFO         Using cached: None
+2026-03-24 06:01:59,508  INFO  [69/77] Nothing Phone 3A Pro
+2026-03-24 06:02:15,217  ERROR    ✗  Nothing Phone 3A Pro: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=nothing%20phone%203a%20pro&otracker=search&marketplace=FLIPKART
+2026-03-24 06:02:15,218  INFO         Using cached: None
+2026-03-24 06:02:18,769  INFO  [70/77] Nothing Phone 3
+2026-03-24 06:02:34,503  ERROR    ✗  Nothing Phone 3: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=nothing%20phone%203&otracker=search&marketplace=FLIPKART
+2026-03-24 06:02:34,504  INFO         Using cached: None
+2026-03-24 06:02:37,192  INFO  [71/77] ZERO 40 5G
+2026-03-24 06:02:52,898  ERROR    ✗  ZERO 40 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=infinix%20zero%2040%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 06:02:52,900  INFO         Using cached: None
+2026-03-24 06:02:56,414  INFO  [72/77] GT 30 Pro
+2026-03-24 06:03:12,163  ERROR    ✗  GT 30 Pro: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=infinix%20gt%2030%20pro&otracker=search&marketplace=FLIPKART
+2026-03-24 06:03:12,164  INFO         Using cached: None
+2026-03-24 06:03:15,047  INFO  [73/77] Tecno Pova Curve 2 5G
+2026-03-24 06:03:30,768  ERROR    ✗  Tecno Pova Curve 2 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=tecno%20pova%20curve%202%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 06:03:30,769  INFO         Using cached: None
+2026-03-24 06:03:32,955  INFO  [74/77] Tecno Phantom V Fold 2 5G
+2026-03-24 06:03:48,687  ERROR    ✗  Tecno Phantom V Fold 2 5G: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=tecno%20phantom%20v%20fold%202%205g&otracker=search&marketplace=FLIPKART
+2026-03-24 06:03:48,688  INFO         Using cached: None
+2026-03-24 06:03:51,695  INFO  [75/77] iPhone 16 128GB
+2026-03-24 06:04:07,386  ERROR    ✗  iPhone 16 128GB: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=apple%20iphone%2016%20128gb&otracker=search&marketplace=FLIPKART
+2026-03-24 06:04:07,387  INFO         Using cached: None
+2026-03-24 06:04:10,669  INFO  [76/77] iPhone 16 Pro 256GB
+2026-03-24 06:04:26,401  ERROR    ✗  iPhone 16 Pro 256GB: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=apple%20iphone%2016%20pro%20256gb&otracker=search&marketplace=FLIPKART
+2026-03-24 06:04:26,402  INFO         Using cached: None
+2026-03-24 06:04:28,469  INFO  [77/77] iPhone 17 256GB
+2026-03-24 06:04:44,190  ERROR    ✗  iPhone 17 256GB: HTTP error 529 Server Error: Server Error for url: https://www.flipkart.com/search?q=apple%20iphone%2017%20256gb&otracker=search&marketplace=FLIPKART
+2026-03-24 06:04:44,192  INFO         Using cached: None
+2026-03-24 06:04:46,881  INFO  -----------------------------------------------------------------
+2026-03-24 06:04:46,881  INFO  Done. 0/77 prices fetched successfully.
+2026-03-24 06:04:46,881  INFO  Output: /home/runner/work/moto-phone-comparison/moto-phone-comparison/prices.json
+2026-03-24 06:04:46,881  INFO  =================================================================
