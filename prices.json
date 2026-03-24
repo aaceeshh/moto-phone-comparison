@@ -1,8 +1,74 @@
 {
-  "last_updated": "24 Mar 2026 18:09 IST",
-  "source": "Flipkart.com",
-  "total_scraped": 0,
-  "total_models": 77,
+  "last_updated": "25 Mar 2026 01:19 IST",
+  "total_models": 252,
+  "prices_found": 0,
+  "prices_missing": 252,
+  "coverage_pct": 0.0,
+  "failed_models": [
+    "Moto G06 Power",
+    "Moto G35 5G",
+    "Moto G45 5G",
+    "Moto G57 Power 5G",
+    "Moto G67 Power 5G",
+    "Moto G86 Power 5G",
+    "Moto G96 5G",
+    "Motorola Edge 60 Stylus",
+    "Motorola Edge 60 Fusion",
+    "Motorola Edge 70 Fusion",
+    "Motorola Edge 70",
+    "Motorola Edge 60 Pro",
+    "Motorola Signature",
+    "Motorola Razr 60",
+    "Motorola Razr 60 Ultra",
+    "iPhone 15 128GB",
+    "iPhone 15 256GB",
+    "iPhone 15 512GB",
+    "iPhone 15 Plus 128GB",
+    "iPhone 15 Plus 256GB",
+    "iPhone 15 Plus 512GB",
+    "iPhone 16 128GB",
+    "iPhone 16 256GB",
+    "iPhone 16 512GB",
+    "iPhone 16 Plus 128GB",
+    "iPhone 16 Plus 256GB",
+    "iPhone 16 Plus 512GB",
+    "iPhone 16 Pro 128GB",
+    "iPhone 16 Pro 256GB",
+    "iPhone 16 Pro 512GB",
+    "iPhone 16 Pro 1TB",
+    "iPhone 16 Pro Max 256GB",
+    "iPhone 16 Pro Max 512GB",
+    "iPhone 16 Pro Max 1TB",
+    "iPhone 16e 128GB",
+    "iPhone 16e 256GB",
+    "iPhone 16e 512GB",
+    "iPhone 17 256GB",
+    "iPhone 17 512GB",
+    "iPhone 17 Pro 256GB",
+    "iPhone 17 Pro 512GB",
+    "iPhone 17 Pro 1TB",
+    "iPhone 17 Pro Max 256GB",
+    "iPhone 17 Pro Max 512GB",
+    "iPhone 17 Pro Max 1TB",
+    "iPhone 17 Pro Max 2TB",
+    "iPhone 17e 256GB",
+    "iPhone 17e 512GB",
+    "iPhone Air 256GB",
+    "iPhone Air 512GB",
+    "iPhone Air 1TB",
+    "GT 30 5G Plus",
+    "GT 30 Pro",
+    "GT 30 Pro 5G+",
+    "HOT 50 5G",
+    "HOT 60 5G Plus",
+    "HOT 60 5G+",
+    "HOT 60i 5G",
+    "NOTE 40 5G",
+    "NOTE 40 Pro 5G",
+    "NOTE 40 Pro 5G Racing",
+    "NOTE 40x 5G",
+    "NOTE 50s 5G+"
+  ],
   "phones": [
     {
       "model": "Moto G06 Power",
@@ -696,6 +762,402 @@
       "source": "Flipkart",
       "status": "cached_http_error",
       "updated": "24 Mar 2026 18:09 IST"
+    },
+    {
+      "model": "iPhone 15 128GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:00:39.849174+05:30"
+    },
+    {
+      "model": "iPhone 15 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:01:04.874846+05:30"
+    },
+    {
+      "model": "iPhone 15 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:01:25.837190+05:30"
+    },
+    {
+      "model": "iPhone 15 Plus 128GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:01:46.589049+05:30"
+    },
+    {
+      "model": "iPhone 15 Plus 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:02:07.322294+05:30"
+    },
+    {
+      "model": "iPhone 15 Plus 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:02:32.384574+05:30"
+    },
+    {
+      "model": "iPhone 16 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:03:22.502142+05:30"
+    },
+    {
+      "model": "iPhone 16 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:03:47.589611+05:30"
+    },
+    {
+      "model": "iPhone 16 Plus 128GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:04:12.632036+05:30"
+    },
+    {
+      "model": "iPhone 16 Plus 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:04:37.677114+05:30"
+    },
+    {
+      "model": "iPhone 16 Plus 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:05:02.784879+05:30"
+    },
+    {
+      "model": "iPhone 16 Pro 128GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:05:27.830090+05:30"
+    },
+    {
+      "model": "iPhone 16 Pro 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:06:13.638565+05:30"
+    },
+    {
+      "model": "iPhone 16 Pro 1TB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:06:34.373811+05:30"
+    },
+    {
+      "model": "iPhone 16 Pro Max 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:06:55.119474+05:30"
+    },
+    {
+      "model": "iPhone 16 Pro Max 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:07:20.190400+05:30"
+    },
+    {
+      "model": "iPhone 16 Pro Max 1TB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:07:45.250266+05:30"
+    },
+    {
+      "model": "iPhone 16e 128GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:08:10.296678+05:30"
+    },
+    {
+      "model": "iPhone 16e 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:08:35.356264+05:30"
+    },
+    {
+      "model": "iPhone 16e 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:09:00.416477+05:30"
+    },
+    {
+      "model": "iPhone 17 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:09:50.563441+05:30"
+    },
+    {
+      "model": "iPhone 17 Pro 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:10:15.635334+05:30"
+    },
+    {
+      "model": "iPhone 17 Pro 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:10:40.668073+05:30"
+    },
+    {
+      "model": "iPhone 17 Pro 1TB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:11:05.771339+05:30"
+    },
+    {
+      "model": "iPhone 17 Pro Max 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:11:30.864014+05:30"
+    },
+    {
+      "model": "iPhone 17 Pro Max 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:11:55.909258+05:30"
+    },
+    {
+      "model": "iPhone 17 Pro Max 1TB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:12:21.020199+05:30"
+    },
+    {
+      "model": "iPhone 17 Pro Max 2TB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:12:41.797831+05:30"
+    },
+    {
+      "model": "iPhone 17e 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:13:02.535309+05:30"
+    },
+    {
+      "model": "iPhone 17e 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:13:23.282546+05:30"
+    },
+    {
+      "model": "iPhone Air 256GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:13:48.361740+05:30"
+    },
+    {
+      "model": "iPhone Air 512GB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:14:13.421744+05:30"
+    },
+    {
+      "model": "iPhone Air 1TB",
+      "brand": "Apple",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:14:38.474943+05:30"
+    },
+    {
+      "model": "GT 30 5G Plus",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:14:59.235981+05:30"
+    },
+    {
+      "model": "GT 30 Pro 5G+",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:15:40.706438+05:30"
+    },
+    {
+      "model": "HOT 50 5G",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:16:05.784988+05:30"
+    },
+    {
+      "model": "HOT 60 5G Plus",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:16:30.843840+05:30"
+    },
+    {
+      "model": "HOT 60 5G+",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:16:55.914896+05:30"
+    },
+    {
+      "model": "HOT 60i 5G",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:17:20.995045+05:30"
+    },
+    {
+      "model": "NOTE 40 5G",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:17:46.064632+05:30"
+    },
+    {
+      "model": "NOTE 40 Pro 5G",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:18:11.123744+05:30"
+    },
+    {
+      "model": "NOTE 40 Pro 5G Racing",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:18:31.886310+05:30"
+    },
+    {
+      "model": "NOTE 40x 5G",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:18:52.609722+05:30"
+    },
+    {
+      "model": "NOTE 50s 5G+",
+      "brand": "INFINIX",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T01:19:13.343562+05:30"
     }
   ]
 }
