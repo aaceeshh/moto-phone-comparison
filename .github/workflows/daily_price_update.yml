@@ -1,43 +1,65 @@
-name: Daily Price Updater — 10am IST
+# .github/workflows/daily_price_update.yml
+# 4 batches spread through the day — ~63 models each, 5s delay between requests
+# Batch 0: 06:00 AM IST → models   1– 63
+# Batch 1: 09:00 AM IST → models  64–126
+# Batch 2: 12:00 PM IST → models 127–189
+# Batch 3: 03:00 PM IST → models 190–252
+# All batches MERGE into one prices.json — earlier results are preserved
+
+name: Daily Price Update
 
 on:
   schedule:
-    # 10:00am IST = 04:30 UTC (IST is UTC+5:30)
-    - cron: '30 4 * * *'
-
-  # Also allows manual trigger from GitHub website
+    - cron: '30 0 * * *'   # Batch 0 — 06:00 AM IST
+    - cron: '30 3 * * *'   # Batch 1 — 09:00 AM IST
+    - cron: '30 6 * * *'   # Batch 2 — 12:00 PM IST
+    - cron: '30 9 * * *'   # Batch 3 — 03:00 PM IST
   workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch number to run (0-3), or leave empty to run all'
+        required: false
+        default: ''
 
 jobs:
-  scrape-prices:
+  update-prices:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out your repository
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # Step 3: Install dependencies
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml
-
-      # Step 4: Run the price scraper
-      - name: Run price scraper
-        run: python price_scraper.py
-
-      # Step 5: Commit and push updated prices.json back to repo
-      - name: Commit updated prices
+      - name: Determine batch number
+        id: batch
         run: |
-          git config user.name  "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git add prices.json scraper_log.txt
-          git diff --staged --quiet || git commit -m "💰 Auto price update $(date +'%d %b %Y %H:%M IST' --date='TZ=\"Asia/Kolkata\" now')"
+          # If manually triggered with a batch number, use that
+          if [ -n "${{ github.event.inputs.batch }}" ]; then
+            echo "num=${{ github.event.inputs.batch }}" >> $GITHUB_OUTPUT
+          else
+            # Determine batch from current hour (IST = UTC+5:30)
+            HOUR_UTC=$(date -u +%H)
+            if [ "$HOUR_UTC" = "00" ]; then echo "num=0" >> $GITHUB_OUTPUT
+            elif [ "$HOUR_UTC" = "03" ]; then echo "num=1" >> $GITHUB_OUTPUT
+            elif [ "$HOUR_UTC" = "06" ]; then echo "num=2" >> $GITHUB_OUTPUT
+            else echo "num=3" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Pull latest prices.json (to merge with)
+        run: git pull --rebase origin main || true
+
+      - name: Run price scraper (Batch ${{ steps.batch.outputs.num }})
+        run: python price_scraper.py ${{ steps.batch.outputs.num }}
+
+      - name: Commit and push updated prices.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prices.json
+          git diff --staged --quiet || git commit -m "Prices batch ${{ steps.batch.outputs.num }} — $(TZ='Asia/Kolkata' date +'%d %b %Y %H:%M IST')"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
