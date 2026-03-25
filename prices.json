@@ -1,10 +1,11 @@
 {
-  "last_updated": "25 Mar 2026 13:29 IST",
-  "total_models": 253,
+  "last_updated": "25 Mar 2026 16:06 IST",
+  "total_models": 254,
   "prices_found": 0,
-  "prices_missing": 253,
+  "prices_missing": 254,
   "coverage_pct": 0.0,
   "failed_models": [
+    "Samsung S24 Plus",
     "Samsung S25 FE",
     "Samsung S25 Edge",
     "Samsung S25 Plus",
@@ -1903,6 +1904,15 @@
       "price_num": null,
       "source": "not_found",
       "scraped_at": "2026-03-25T11:06:59.413236+05:30"
+    },
+    {
+      "model": "Samsung S24 Plus",
+      "brand": "Samsung",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-25T15:43:35.103820+05:30"
     }
   ]
 }
