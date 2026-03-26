@@ -1,10 +1,12 @@
 {
-  "last_updated": "26 Mar 2026 13:35 IST",
-  "total_models": 254,
+  "last_updated": "26 Mar 2026 16:21 IST",
+  "total_models": 256,
   "prices_found": 0,
-  "prices_missing": 254,
+  "prices_missing": 256,
   "coverage_pct": 0.0,
   "failed_models": [
+    "Samsung A26 5G",
+    "Samsung S24 FE",
     "Samsung S24 Plus",
     "Samsung S25 FE",
     "Samsung S25 Edge",
@@ -1913,6 +1915,24 @@
       "price_num": null,
       "source": "not_found",
       "scraped_at": "2026-03-25T15:43:35.103820+05:30"
+    },
+    {
+      "model": "Samsung A26 5G",
+      "brand": "Samsung",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-26T15:59:45.232443+05:30"
+    },
+    {
+      "model": "Samsung S24 FE",
+      "brand": "Samsung",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-03-26T16:00:06.087724+05:30"
     }
   ]
 }
