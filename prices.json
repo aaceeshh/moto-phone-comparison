@@ -1,16 +1,21 @@
 {
-  "last_updated": "28 Apr 2026 17:17 IST",
-  "total_models": 354,
+  "last_updated": "29 Apr 2026 10:17 IST",
+  "total_models": 374,
   "prices_found": 0,
-  "prices_missing": 354,
+  "prices_missing": 374,
   "coverage_pct": 0.0,
   "failed_models": [
+    "Samsung S26 Ultra",
+    "Samsung S26+",
+    "Samsung Z Flip 6",
+    "Samsung Z Flip 7",
     "Samsung Z Flip 7 FE",
     "Samsung Z Fold 6",
     "Samsung Z Fold 7",
     "Tecno Phantom V Fold 2 5G",
     "Tecno Pop 9 4G",
     "Tecno Pop 9 5G",
+    "Tecno POP X 5G",
     "Tecno Pova 7",
     "Tecno Pova 7 Pro",
     "Tecno Pova Curve 2 5G",
@@ -40,6 +45,7 @@
     "Vivo V60e",
     "Vivo V70 5G",
     "Vivo V70 Elite 5G",
+    "Vivo V70 FE",
     "Vivo X Fold 3 Pro",
     "Vivo X Fold5",
     "Vivo X200",
@@ -69,29 +75,28 @@
     "Vivo Y400 Pro",
     "Vivo Y51 Pro 5G",
     "Vivo Y58 5G",
-    "Vivo V70 FE",
     "Redmi 13 5G",
     "Redmi 13C 5G",
     "Redmi 14C 5G",
     "Redmi 15 5G",
+    "Redmi 15A 5G",
     "Redmi 15C 5G",
     "Redmi A3x",
     "Redmi A4 5G",
     "Redmi A5",
+    "Redmi A7 Pro 5G",
     "Redmi Note 14 5G",
     "Redmi Note 14 Pro 5G",
     "Redmi Note 14 Pro+ 5G",
     "Redmi Note 15 5G",
     "Redmi Note 15 Pro 5G",
     "Redmi Note 15 Pro+ 5G",
+    "Redmi Note 15 SE 5G",
     "Xiaomi 14 Civi",
     "Xiaomi 15",
     "Xiaomi 15 Ultra",
     "Xiaomi 17",
-    "Xiaomi 17 Ultra",
-    "Redmi 15A 5G",
-    "Redmi Note 15 SE 5G",
-    "Redmi A7 Pro 5G"
+    "Xiaomi 17 Ultra"
   ],
   "phones": [
     {
@@ -3261,6 +3266,15 @@
       "price_num": null,
       "source": "not_found",
       "scraped_at": "2026-04-14T11:42:10.531875+05:30"
+    },
+    {
+      "model": "Tecno POP X 5G",
+      "brand": "Tecno",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-04-29T09:44:06.055288+05:30"
     }
   ]
 }
