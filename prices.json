@@ -1,10 +1,13 @@
 {
-  "last_updated": "28 May 2026 18:34 IST",
-  "total_models": 378,
+  "last_updated": "29 May 2026 10:40 IST",
+  "total_models": 384,
   "prices_found": 0,
-  "prices_missing": 378,
+  "prices_missing": 384,
   "coverage_pct": 0.0,
   "failed_models": [
+    "Samsung S25 Ultra",
+    "Samsung S26",
+    "Samsung S26 Ultra",
     "Samsung S26+",
     "Samsung Z Flip 6",
     "Samsung Z Flip 7",
