@@ -1,9 +1,9 @@
 {
-  "last_updated": "29 May 2026 10:40 IST",
+  "last_updated": "29 May 2026 12:55 IST",
   "total_models": 384,
-  "prices_found": 0,
-  "prices_missing": 384,
-  "coverage_pct": 0.0,
+  "prices_found": 4,
+  "prices_missing": 380,
+  "coverage_pct": 1.0,
   "failed_models": [
     "Samsung S25 Ultra",
     "Samsung S26",
@@ -87,12 +87,8 @@
     "Redmi 15C 5G",
     "Redmi A3x",
     "Redmi A4 5G",
-    "Redmi A5",
     "Redmi A7 Pro 5G",
-    "Redmi Note 14 5G",
-    "Redmi Note 14 Pro 5G",
     "Redmi Note 14 Pro+ 5G",
-    "Redmi Note 15 5G",
     "Redmi Note 15 Pro 5G",
     "Redmi Note 15 Pro+ 5G",
     "Redmi Note 15 SE 5G",
@@ -501,12 +497,12 @@
     },
     {
       "model": "Redmi Note 14 Pro 5G",
-      "price": null,
-      "price_num": null,
-      "url": "https://www.flipkart.com/search?q=redmi%20note%2014%20pro%205g&otracker=search&marketplace=FLIPKART",
-      "source": "Flipkart",
-      "status": "cached_http_error",
-      "updated": "24 Mar 2026 17:59 IST"
+      "brand": "Xiaomi",
+      "type": "comp",
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-29T12:54:46.220975+05:30"
     },
     {
       "model": "Redmi Note 14 Pro+ 5G",
@@ -1835,10 +1831,10 @@
       "model": "Redmi A5",
       "brand": "Xiaomi",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T10:59:53.557890+05:30"
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-29T12:54:24.276533+05:30"
     },
     {
       "model": "Redmi 14C 5G",
@@ -1889,10 +1885,10 @@
       "model": "Redmi Note 14 5G",
       "brand": "Xiaomi",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T11:02:23.820619+05:30"
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-29T12:54:39.677217+05:30"
     },
     {
       "model": "Redmi 15 5G",
@@ -1907,10 +1903,10 @@
       "model": "Redmi Note 15 5G",
       "brand": "Xiaomi",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T11:03:39.044424+05:30"
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-29T12:55:02.565451+05:30"
     },
     {
       "model": "Xiaomi 14 Civi",
