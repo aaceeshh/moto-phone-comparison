@@ -1,9 +1,9 @@
 {
-  "last_updated": "29 May 2026 18:10 IST",
+  "last_updated": "30 May 2026 10:14 IST",
   "total_models": 384,
-  "prices_found": 15,
-  "prices_missing": 369,
-  "coverage_pct": 3.9,
+  "prices_found": 18,
+  "prices_missing": 366,
+  "coverage_pct": 4.7,
   "failed_models": [
     "Samsung S25 Ultra",
     "Samsung S26",
@@ -71,9 +71,6 @@
     "Vivo Y300 5G",
     "Vivo Y300 Plus",
     "Vivo Y31 5G",
-    "Vivo Y31 Pro 5G",
-    "Vivo Y39 5G",
-    "Vivo Y400 5G",
     "Vivo Y400 Pro",
     "Vivo Y51 Pro 5G",
     "Vivo Y58 5G",
@@ -1718,19 +1715,19 @@
       "model": "Vivo Y31 Pro 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T10:52:22.556347+05:30"
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-30T10:11:43.462210+05:30"
     },
     {
       "model": "Vivo Y400 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T10:53:12.652439+05:30"
+      "price": "₹1,412",
+      "price_num": 1412,
+      "source": "flipkart",
+      "scraped_at": "2026-05-30T10:11:56.776912+05:30"
     },
     {
       "model": "Vivo Y400 Pro",
@@ -2582,10 +2579,10 @@
       "model": "Vivo Y39 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-28T11:01:23.678799+05:30"
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-30T10:11:49.986338+05:30"
     },
     {
       "model": "Vivo Y58 5G",
