@@ -1,9 +1,9 @@
 {
-  "last_updated": "30 May 2026 16:44 IST",
+  "last_updated": "31 May 2026 10:44 IST",
   "total_models": 384,
-  "prices_found": 49,
-  "prices_missing": 335,
-  "coverage_pct": 12.8,
+  "prices_found": 53,
+  "prices_missing": 331,
+  "coverage_pct": 13.8,
   "failed_models": [
     "Samsung S25 Ultra",
     "Samsung S26",
@@ -16,12 +16,6 @@
     "Samsung Z Fold 7",
     "Tecno Phantom V Fold 2 5G",
     "Tecno Pop 9 4G",
-    "Tecno Pop 9 5G",
-    "Tecno POP X 5G",
-    "Tecno Pova 7",
-    "Tecno Pova 7 Pro",
-    "Tecno Pova Curve 2 5G",
-    "Tecno Pova Curve 5G",
     "Tecno Pova Slim 5G",
     "Tecno Spark Go 2 4G",
     "Tecno Spark Go 3 4G",
@@ -753,12 +747,12 @@
     },
     {
       "model": "Tecno Pova Curve 2 5G",
-      "price": null,
-      "price_num": null,
-      "url": "https://www.flipkart.com/search?q=tecno%20pova%20curve%202%205g&otracker=search&marketplace=FLIPKART",
-      "source": "Flipkart",
-      "status": "cached_http_error",
-      "updated": "24 Mar 2026 18:08 IST"
+      "brand": "Tecno",
+      "type": "comp",
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-31T10:36:30.916353+05:30"
     },
     {
       "model": "Tecno Phantom V Fold 2 5G",
@@ -1613,7 +1607,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-30T14:14:37.727524+05:30"
+      "scraped_at": "2026-05-31T10:36:02.541357+05:30"
     },
     {
       "model": "Tecno Spark Go 3 4G",
@@ -1637,28 +1631,28 @@
       "model": "Tecno Pova 7",
       "brand": "Tecno",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T10:47:46.786583+05:30"
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-31T10:36:16.837062+05:30"
     },
     {
       "model": "Tecno Pova Curve 5G",
       "brand": "Tecno",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T10:48:11.839822+05:30"
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-05-31T10:36:37.530085+05:30"
     },
     {
       "model": "Tecno Pova 7 Pro",
       "brand": "Tecno",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T10:48:36.887660+05:30"
+      "price": "₹1,217",
+      "price_num": 1217,
+      "source": "flipkart",
+      "scraped_at": "2026-05-31T10:36:24.097638+05:30"
     },
     {
       "model": "Tecno Pova Slim 5G",
@@ -3278,7 +3272,7 @@
       "price": "₹4,800",
       "price_num": 4800,
       "source": "flipkart",
-      "scraped_at": "2026-05-30T14:14:44.733240+05:30"
+      "scraped_at": "2026-05-31T10:36:09.891255+05:30"
     },
     {
       "model": "Realme Narzo 100 Lite 5G",
