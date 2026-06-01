@@ -1,5 +1,5 @@
 {
-  "last_updated": "31 May 2026 17:21 IST",
+  "last_updated": "01 Jun 2026 11:14 IST",
   "total_models": 384,
   "prices_found": 76,
   "prices_missing": 308,
@@ -14,6 +14,10 @@
     "Samsung Z Flip 7 FE",
     "Samsung Z Fold 6",
     "Samsung Z Fold 7",
+    "Tecno Phantom V Fold 2 5G",
+    "Tecno Pop 9 4G",
+    "Tecno Pop 9 5G",
+    "Tecno POP X 5G",
     "Tecno Pova 7",
     "Tecno Pova 7 Pro",
     "Tecno Pova Curve 2 5G",
@@ -62,6 +66,10 @@
     "Vivo Y21 5G",
     "Vivo Y28 5G",
     "Vivo Y28e 5G",
+    "Vivo Y28s 5G",
+    "Vivo Y29 5G",
+    "Vivo Y300 5G",
+    "Vivo Y300 Plus",
     "Vivo Y31 5G",
     "Vivo Y31 Pro 5G",
     "Vivo Y39 5G",
@@ -87,8 +95,8 @@
     "Redmi Note 15 5G",
     "Redmi Note 15 Pro 5G",
     "Redmi Note 15 Pro+ 5G",
-    "Redmi Note 15 SE 5G",
-    "Xiaomi 14 Civi",
+    "Xiaomi 15 Ultra",
+    "Xiaomi 17",
     "Xiaomi 17 Ultra"
   ],
   "phones": [
@@ -549,7 +557,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T17:20:42.871431+05:30"
+      "scraped_at": "2026-06-01T11:12:56.385653+05:30"
     },
     {
       "model": "Xiaomi 15 Ultra",
@@ -1908,7 +1916,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T15:29:15.133900+05:30"
+      "scraped_at": "2026-06-01T11:12:49.792694+05:30"
     },
     {
       "model": "Xiaomi 17",
@@ -2619,7 +2627,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T15:29:08.031514+05:30"
+      "scraped_at": "2026-06-01T11:12:42.719235+05:30"
     },
     {
       "model": "OnePlus Nord 6",
