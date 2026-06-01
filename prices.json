@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 Jun 2026 11:14 IST",
+  "last_updated": "01 Jun 2026 15:08 IST",
   "total_models": 384,
   "prices_found": 76,
   "prices_missing": 308,
@@ -14,9 +14,6 @@
     "Samsung Z Flip 7 FE",
     "Samsung Z Fold 6",
     "Samsung Z Fold 7",
-    "Tecno Phantom V Fold 2 5G",
-    "Tecno Pop 9 4G",
-    "Tecno Pop 9 5G",
     "Tecno POP X 5G",
     "Tecno Pova 7",
     "Tecno Pova 7 Pro",
@@ -84,9 +81,6 @@
     "Redmi 14C 5G",
     "Redmi 15 5G",
     "Redmi 15A 5G",
-    "Redmi 15C 5G",
-    "Redmi A3x",
-    "Redmi A4 5G",
     "Redmi A5",
     "Redmi A7 Pro 5G",
     "Redmi Note 14 5G",
@@ -95,6 +89,9 @@
     "Redmi Note 15 5G",
     "Redmi Note 15 Pro 5G",
     "Redmi Note 15 Pro+ 5G",
+    "Redmi Note 15 SE 5G",
+    "Xiaomi 14 Civi",
+    "Xiaomi 15",
     "Xiaomi 15 Ultra",
     "Xiaomi 17",
     "Xiaomi 17 Ultra"
@@ -764,7 +761,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T16:48:30.304897+05:30"
+      "scraped_at": "2026-06-01T14:33:52.886254+05:30"
     },
     {
       "model": "iPhone 16 128GB",
@@ -1592,7 +1589,7 @@
       "price": "₹4,250",
       "price_num": 4250,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T16:48:36.795923+05:30"
+      "scraped_at": "2026-06-01T14:33:59.913841+05:30"
     },
     {
       "model": "Tecno Spark Go 2 4G",
@@ -1610,7 +1607,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T16:48:43.302417+05:30"
+      "scraped_at": "2026-06-01T14:34:06.646665+05:30"
     },
     {
       "model": "Tecno Spark Go 3 4G",
@@ -1826,7 +1823,7 @@
       "price": "₹3,650",
       "price_num": 3650,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T15:26:08.971453+05:30"
+      "scraped_at": "2026-06-01T15:02:19.494479+05:30"
     },
     {
       "model": "Redmi A5",
@@ -1862,7 +1859,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T15:26:16.364848+05:30"
+      "scraped_at": "2026-06-01T15:02:26.150650+05:30"
     },
     {
       "model": "Redmi 13 5G",
@@ -1880,7 +1877,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-29T16:28:09.361990+05:30"
+      "scraped_at": "2026-06-01T15:02:12.550987+05:30"
     },
     {
       "model": "Redmi Note 14 5G",
