@@ -1,9 +1,9 @@
 {
-  "last_updated": "02 Jun 2026 11:16 IST",
+  "last_updated": "02 Jun 2026 14:21 IST",
   "total_models": 384,
-  "prices_found": 88,
-  "prices_missing": 296,
-  "coverage_pct": 22.9,
+  "prices_found": 89,
+  "prices_missing": 295,
+  "coverage_pct": 23.2,
   "failed_models": [
     "Samsung S25 Ultra",
     "Samsung S26",
@@ -20,9 +20,6 @@
     "Tecno POP X 5G",
     "Tecno Pova 7",
     "Tecno Pova 7 Pro",
-    "Tecno Pova Curve 2 5G",
-    "Tecno Pova Curve 5G",
-    "Tecno Pova Slim 5G",
     "Tecno Spark Go 2 4G",
     "Tecno Spark Go 3 4G",
     "Tecno Spark Go 5G",
@@ -47,18 +44,31 @@
     "Vivo V60e",
     "Vivo V70 5G",
     "Vivo V70 Elite 5G",
+    "Vivo V70 FE",
+    "Vivo X Fold 3 Pro",
+    "Vivo X Fold5",
+    "Vivo X200",
+    "Vivo X200 FE",
+    "Vivo X200 Pro",
     "Vivo X200T",
     "Vivo X300",
     "Vivo X300 Pro",
     "Vivo Y11 5G",
     "Vivo Y19 5G",
     "Vivo Y19e",
+    "Vivo Y19s 5G",
+    "Vivo Y200 5G",
+    "Vivo Y200 Pro 5G",
     "Vivo Y200e 5G",
     "Vivo Y21 5G",
     "Vivo Y28 5G",
     "Vivo Y28e 5G",
     "Vivo Y28s 5G",
     "Vivo Y29 5G",
+    "Vivo Y300 5G",
+    "Vivo Y300 Plus",
+    "Vivo Y31 5G",
+    "Vivo Y31 Pro 5G",
     "Vivo Y39 5G",
     "Vivo Y400 5G",
     "Vivo Y400 Pro",
@@ -83,6 +93,10 @@
     "Redmi Note 15 Pro 5G",
     "Redmi Note 15 Pro+ 5G",
     "Redmi Note 15 SE 5G",
+    "Xiaomi 14 Civi",
+    "Xiaomi 15",
+    "Xiaomi 15 Ultra",
+    "Xiaomi 17",
     "Xiaomi 17 Ultra"
   ],
   "phones": [
@@ -741,7 +755,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T10:36:30.916353+05:30"
+      "scraped_at": "2026-06-02T13:48:46.420732+05:30"
     },
     {
       "model": "Tecno Phantom V Fold 2 5G",
@@ -1632,7 +1646,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-05-31T10:36:37.530085+05:30"
+      "scraped_at": "2026-06-02T13:48:52.699560+05:30"
     },
     {
       "model": "Tecno Pova 7 Pro",
@@ -1647,10 +1661,10 @@
       "model": "Tecno Pova Slim 5G",
       "brand": "Tecno",
       "type": "comp",
-      "price": null,
-      "price_num": null,
-      "source": "not_found",
-      "scraped_at": "2026-03-25T10:49:01.980366+05:30"
+      "price": "₹5,000",
+      "price_num": 5000,
+      "source": "flipkart",
+      "scraped_at": "2026-06-02T13:48:59.417186+05:30"
     },
     {
       "model": "Vivo Y19 5G",
