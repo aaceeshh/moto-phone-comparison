@@ -1,5 +1,5 @@
 {
-  "last_updated": "09 Jun 2026 15:45 IST",
+  "last_updated": "09 Jun 2026 18:04 IST",
   "total_models": 384,
   "prices_found": 138,
   "prices_missing": 246,
@@ -38,6 +38,9 @@
     "Vivo T4R 5G",
     "Vivo T4x",
     "Vivo T5x",
+    "Vivo V40",
+    "Vivo V40 Pro",
+    "Vivo V40e",
     "Vivo V50",
     "Vivo V50e",
     "Vivo V60 5G",
@@ -71,15 +74,18 @@
     "Vivo Y31 Pro 5G",
     "Vivo Y39 5G",
     "Vivo Y400 5G",
+    "Vivo Y400 Pro",
+    "Vivo Y51 Pro 5G",
+    "Vivo Y58 5G",
+    "Vivo X300 FE",
+    "Vivo X300 Ultra",
+    "Redmi 13 5G",
     "Redmi 13C 5G",
     "Redmi 14C 5G",
     "Redmi 15 5G",
     "Redmi 15A 5G",
     "Redmi 15C 5G",
     "Redmi A3x",
-    "Redmi A4 5G",
-    "Redmi A5",
-    "Redmi A7 Pro 5G",
     "Redmi Note 14 5G",
     "Redmi Note 14 Pro 5G",
     "Redmi Note 14 Pro+ 5G",
@@ -90,8 +96,7 @@
     "Xiaomi 14 Civi",
     "Xiaomi 15",
     "Xiaomi 15 Ultra",
-    "Xiaomi 17",
-    "Xiaomi 17 Ultra"
+    "Xiaomi 17"
   ],
   "phones": [
     {
@@ -1829,7 +1834,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-09T12:40:19.674439+05:30"
+      "scraped_at": "2026-06-09T18:03:31.376040+05:30"
     },
     {
       "model": "Redmi 14C 5G",
@@ -1856,7 +1861,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-09T12:40:12.713017+05:30"
+      "scraped_at": "2026-06-09T18:03:23.634561+05:30"
     },
     {
       "model": "Redmi 13 5G",
@@ -1928,7 +1933,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-08T19:47:05.035955+05:30"
+      "scraped_at": "2026-06-09T18:04:47.218826+05:30"
     },
     {
       "model": "Samsung S24 Plus",
@@ -3260,7 +3265,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-09T12:40:25.944273+05:30"
+      "scraped_at": "2026-06-09T18:03:38.182274+05:30"
     },
     {
       "model": "Tecno POP X 5G",
