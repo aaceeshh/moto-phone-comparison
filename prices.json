@@ -1,5 +1,5 @@
 {
-  "last_updated": "10 Jun 2026 18:21 IST",
+  "last_updated": "11 Jun 2026 10:50 IST",
   "total_models": 384,
   "prices_found": 138,
   "prices_missing": 246,
@@ -16,9 +16,6 @@
     "Samsung Z Fold 7",
     "Tecno Phantom V Fold 2 5G",
     "Tecno Pop 9 4G",
-    "Tecno Pop 9 5G",
-    "Tecno POP X 5G",
-    "Tecno Pova 7",
     "Tecno Pova 7 Pro",
     "Tecno Pova Curve 2 5G",
     "Tecno Pova Curve 5G",
@@ -52,10 +49,6 @@
     "Vivo X Fold5",
     "Vivo X200",
     "Vivo X200 FE",
-    "Vivo X200 Pro",
-    "Vivo X200T",
-    "Vivo X300",
-    "Vivo X300 Pro",
     "Vivo Y11 5G",
     "Vivo Y19 5G",
     "Vivo Y19e",
@@ -650,7 +643,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-10T16:25:35.417927+05:30"
+      "scraped_at": "2026-06-11T10:45:49.026083+05:30"
     },
     {
       "model": "Oppo K13 5G",
@@ -1613,7 +1606,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-08T19:21:32.243593+05:30"
+      "scraped_at": "2026-06-11T10:42:05.366817+05:30"
     },
     {
       "model": "Tecno Spark Go 3 4G",
@@ -1640,7 +1633,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-07T15:17:06.648136+05:30"
+      "scraped_at": "2026-06-11T10:42:19.106923+05:30"
     },
     {
       "model": "Tecno Pova Curve 5G",
@@ -1793,7 +1786,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-10T10:47:50.799615+05:30"
+      "scraped_at": "2026-06-11T10:45:42.746327+05:30"
     },
     {
       "model": "Vivo V70 Elite 5G",
@@ -1811,7 +1804,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-10T16:25:41.943513+05:30"
+      "scraped_at": "2026-06-11T10:45:55.626453+05:30"
     },
     {
       "model": "Vivo X Fold5",
@@ -2468,7 +2461,7 @@
       "price": "₹1,314",
       "price_num": 1314,
       "source": "flipkart",
-      "scraped_at": "2026-06-10T10:47:44.060999+05:30"
+      "scraped_at": "2026-06-11T10:45:36.447480+05:30"
     },
     {
       "model": "Vivo Y11 5G",
@@ -3275,10 +3268,10 @@
       "model": "Tecno POP X 5G",
       "brand": "Tecno",
       "type": "comp",
-      "price": "₹4,800",
-      "price_num": 4800,
+      "price": "₹4,300",
+      "price_num": 4300,
       "source": "flipkart",
-      "scraped_at": "2026-06-08T10:49:02.241957+05:30"
+      "scraped_at": "2026-06-11T10:42:12.216905+05:30"
     },
     {
       "model": "Realme Narzo 100 Lite 5G",
