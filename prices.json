@@ -1,10 +1,13 @@
 {
-  "last_updated": "18 Jun 2026 10:58 IST",
+  "last_updated": "18 Jun 2026 14:03 IST",
   "total_models": 384,
   "prices_found": 148,
   "prices_missing": 236,
   "coverage_pct": 38.5,
   "failed_models": [
+    "Samsung S25 Ultra",
+    "Samsung S26",
+    "Samsung S26 Ultra",
     "Samsung S26+",
     "Samsung Z Flip 6",
     "Samsung Z Flip 7",
@@ -35,9 +38,6 @@
     "Vivo T4R 5G",
     "Vivo T4x",
     "Vivo T5x",
-    "Vivo V40",
-    "Vivo V40 Pro",
-    "Vivo V40e",
     "Vivo V50",
     "Vivo V50e",
     "Vivo V60 5G",
@@ -65,6 +65,9 @@
     "Vivo Y28e 5G",
     "Vivo Y28s 5G",
     "Vivo Y29 5G",
+    "Vivo Y300 5G",
+    "Vivo Y300 Plus",
+    "Vivo Y31 5G",
     "Vivo Y31 Pro 5G",
     "Vivo Y39 5G",
     "Vivo Y400 5G",
@@ -2408,7 +2411,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-16T14:47:44.224170+05:30"
+      "scraped_at": "2026-06-18T13:57:12.256586+05:30"
     },
     {
       "model": "Vivo V40 Pro",
@@ -2417,7 +2420,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-17T18:36:12.471687+05:30"
+      "scraped_at": "2026-06-18T13:57:19.269962+05:30"
     },
     {
       "model": "Vivo V40e",
@@ -2426,7 +2429,7 @@
       "price": "₹1,213",
       "price_num": 1213,
       "source": "flipkart",
-      "scraped_at": "2026-06-17T18:36:18.833315+05:30"
+      "scraped_at": "2026-06-18T13:57:26.154283+05:30"
     },
     {
       "model": "Vivo V50e",
