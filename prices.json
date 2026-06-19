@@ -1,10 +1,13 @@
 {
-  "last_updated": "19 Jun 2026 11:22 IST",
+  "last_updated": "19 Jun 2026 14:31 IST",
   "total_models": 384,
   "prices_found": 148,
   "prices_missing": 236,
   "coverage_pct": 38.5,
   "failed_models": [
+    "Samsung S25 Ultra",
+    "Samsung S26",
+    "Samsung S26 Ultra",
     "Samsung S26+",
     "Samsung Z Flip 6",
     "Samsung Z Flip 7",
@@ -42,9 +45,10 @@
     "Vivo V50e",
     "Vivo V60 5G",
     "Vivo V60e",
-    "Vivo X Fold5",
-    "Vivo X200",
-    "Vivo X200 FE",
+    "Vivo V70 5G",
+    "Vivo V70 Elite 5G",
+    "Vivo V70 FE",
+    "Vivo X Fold 3 Pro",
     "Vivo X200 Pro",
     "Vivo X200T",
     "Vivo X300",
@@ -62,6 +66,9 @@
     "Vivo Y28s 5G",
     "Vivo Y29 5G",
     "Vivo Y300 5G",
+    "Vivo Y300 Plus",
+    "Vivo Y31 5G",
+    "Vivo Y31 Pro 5G",
     "Vivo Y39 5G",
     "Vivo Y400 5G",
     "Vivo Y400 Pro",
@@ -1774,7 +1781,7 @@
       "price": "₹1,324",
       "price_num": 1324,
       "source": "flipkart",
-      "scraped_at": "2026-06-16T14:50:04.522620+05:30"
+      "scraped_at": "2026-06-19T14:26:36.369005+05:30"
     },
     {
       "model": "Vivo X200T",
@@ -1810,7 +1817,7 @@
       "price": "₹1,324",
       "price_num": 1324,
       "source": "flipkart",
-      "scraped_at": "2026-06-18T18:22:07.990138+05:30"
+      "scraped_at": "2026-06-19T14:26:23.017023+05:30"
     },
     {
       "model": "Redmi A3x",
@@ -2449,7 +2456,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-18T18:22:14.754099+05:30"
+      "scraped_at": "2026-06-19T14:26:29.726746+05:30"
     },
     {
       "model": "Vivo X200 Pro",
