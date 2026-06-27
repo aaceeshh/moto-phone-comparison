@@ -1,94 +1,94 @@
 {
-  "last_updated": "27 Jun 2026 12:20 IST",
+  "last_updated": "27 Jun 2026 14:47 IST",
   "total_models": 388,
   "prices_found": 159,
   "prices_missing": 229,
   "coverage_pct": 41.0,
   "failed_models": [
-    "Realme 14 Pro Lite 5G",
-    "Realme 14 Pro+ 5G",
-    "Realme 14T 5G",
-    "Realme 14x 5G",
-    "Realme 15 5G",
-    "Realme 15 Lite 5G",
-    "Realme 15 Pro 5G",
-    "Realme 15 Pro Limited Edition",
-    "Realme 15T 5G",
-    "Realme 15x 5G",
-    "Realme 16 5G",
-    "Realme 16 Pro",
-    "Realme 16 Pro 5G",
-    "Realme 16 Pro+",
-    "Realme C71",
-    "Realme C71 5G",
-    "Realme C73 5G",
-    "Realme C75 5G",
-    "Realme C83 5G",
-    "Realme C85 5G",
-    "Realme GT 7",
-    "Realme GT 7 5G",
-    "Realme Narzo 100 Lite 5G",
-    "Realme Narzo 80 Lite",
-    "Realme Narzo 80 Lite 5G",
-    "Realme Narzo 80 Pro 5G",
-    "Realme NARZO 80 Pro 5G",
-    "Realme Narzo 80x 5G",
-    "Realme Narzo 90 5G",
-    "Realme Narzo 90x 5G",
-    "Realme Narzo Power 5G",
-    "Realme P3 5G",
-    "Realme P3 Lite 5G",
-    "Realme P3 Pro 5G",
-    "Realme P3 Ultra 5G",
-    "Realme P4 5G",
-    "Realme P4 Lite 4G",
-    "Realme P4 Lite 5G",
-    "Realme P4 Power 5G",
-    "Realme P4 Pro 5G",
-    "Realme P4x 5G",
-    "Realme 16T 5G",
-    "Realme P4R 5G",
-    "Samsung A05 4G",
-    "Samsung A06",
-    "Samsung A06 5G",
-    "Samsung A07",
-    "Samsung A07 5G",
-    "Samsung A15 5G",
-    "Samsung A16 5G",
-    "Samsung A17 5G",
-    "Samsung A26 5G",
-    "Samsung A35 5G",
-    "Samsung A36 5G",
-    "Samsung A37 5G",
-    "Samsung F05",
-    "Samsung F07",
-    "Samsung F13",
-    "Samsung F14 LTE",
-    "Samsung F15 5G",
-    "Samsung F16 5G",
-    "Samsung F17 5G",
-    "Samsung F36 5G",
-    "Samsung F55 5G",
-    "Samsung F56 5G",
-    "Samsung F70e 5G",
-    "Samsung Galaxy X Cover 7",
-    "Samsung M05",
-    "Samsung M06 5G",
-    "Samsung M07",
-    "Samsung M15 5G",
-    "Samsung M16 5G",
-    "Samsung M17 5G",
-    "Samsung M17e 5G",
-    "Samsung M35 5G",
-    "Samsung S24",
-    "Samsung S24 FE",
-    "Samsung S24 Plus",
-    "Samsung S24 Ultra",
-    "Samsung S25",
-    "Samsung S25 Edge",
-    "Samsung S25 FE",
-    "Samsung S25 Plus",
-    "Samsung S25 Ultra"
+    "Samsung S26",
+    "Samsung S26 Ultra",
+    "Samsung S26+",
+    "Samsung Z Flip 6",
+    "Samsung Z Flip 7",
+    "Samsung Z Flip 7 FE",
+    "Samsung Z Fold 6",
+    "Samsung Z Fold 7",
+    "Tecno Phantom V Fold 2 5G",
+    "Tecno Pop 9 4G",
+    "Tecno Pop 9 5G",
+    "Tecno Spark Go 3 4G",
+    "Tecno Spark Go 5G",
+    "Vivo T3 5G",
+    "Vivo T3 Lite 5G",
+    "Vivo T3 Pro",
+    "Vivo T3 Ultra",
+    "Vivo T3x 5G",
+    "Vivo T4 5G",
+    "Vivo T4 Lite 5G",
+    "Vivo T4 Pro",
+    "Vivo T4 Ultra",
+    "Vivo T4R 5G",
+    "Vivo T4x",
+    "Vivo T5x",
+    "Vivo V40",
+    "Vivo V40 Pro",
+    "Vivo V40e",
+    "Vivo V50",
+    "Vivo V50e",
+    "Vivo V60 5G",
+    "Vivo V60e",
+    "Vivo V70 5G",
+    "Vivo V70 Elite 5G",
+    "Vivo V70 FE",
+    "Vivo X Fold 3 Pro",
+    "Vivo X Fold5",
+    "Vivo X200",
+    "Vivo X200 FE",
+    "Vivo X200 Pro",
+    "Vivo X200T",
+    "Vivo X300",
+    "Vivo X300 Pro",
+    "Vivo Y11 5G",
+    "Vivo Y200 5G",
+    "Vivo Y200 Pro 5G",
+    "Vivo Y200e 5G",
+    "Vivo Y21 5G",
+    "Vivo Y28 5G",
+    "Vivo Y28e 5G",
+    "Vivo Y28s 5G",
+    "Vivo Y29 5G",
+    "Vivo Y300 5G",
+    "Vivo Y300 Plus",
+    "Vivo Y31 5G",
+    "Vivo Y31 Pro 5G",
+    "Vivo Y39 5G",
+    "Vivo Y400 5G",
+    "Vivo Y400 Pro",
+    "Vivo Y51 Pro 5G",
+    "Vivo Y58 5G",
+    "Vivo X300 FE",
+    "Vivo X300 Ultra",
+    "Redmi 13 5G",
+    "Redmi 13C 5G",
+    "Redmi 14C 5G",
+    "Redmi A3x",
+    "Redmi A4 5G",
+    "Redmi A5",
+    "Redmi A7 Pro 5G",
+    "Redmi Note 14 5G",
+    "Redmi Note 14 Pro 5G",
+    "Redmi Note 14 Pro+ 5G",
+    "Redmi Note 15 5G",
+    "Redmi Note 15 Pro 5G",
+    "Redmi Note 15 Pro+ 5G",
+    "Redmi Note 15 SE 5G",
+    "Xiaomi 14 Civi",
+    "Xiaomi 15",
+    "Xiaomi 15 Ultra",
+    "Xiaomi 17",
+    "Xiaomi 17 Ultra",
+    "Xiaomi 17T",
+    "Redmi Turbo 5"
   ],
   "phones": [
     {
@@ -746,7 +746,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T15:29:33.566412+05:30"
+      "scraped_at": "2026-06-27T14:39:37.258796+05:30"
     },
     {
       "model": "Tecno Phantom V Fold 2 5G",
@@ -1592,7 +1592,7 @@
       "price": "₹4,250",
       "price_num": 4250,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T17:34:20.844657+05:30"
+      "scraped_at": "2026-06-27T14:39:57.847509+05:30"
     },
     {
       "model": "Tecno Pop 9 5G",
@@ -1628,7 +1628,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T15:29:20.561613+05:30"
+      "scraped_at": "2026-06-27T14:39:24.145907+05:30"
     },
     {
       "model": "Tecno Pova Curve 5G",
@@ -1637,7 +1637,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T15:29:40.052039+05:30"
+      "scraped_at": "2026-06-27T14:39:44.171678+05:30"
     },
     {
       "model": "Tecno Pova 7 Pro",
@@ -1646,7 +1646,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T15:29:26.815732+05:30"
+      "scraped_at": "2026-06-27T14:39:30.814551+05:30"
     },
     {
       "model": "Tecno Pova Slim 5G",
@@ -1655,7 +1655,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T15:29:46.687698+05:30"
+      "scraped_at": "2026-06-27T14:39:51.227313+05:30"
     },
     {
       "model": "Vivo Y19 5G",
@@ -1664,7 +1664,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T10:26:12.711145+05:30"
+      "scraped_at": "2026-06-27T14:43:14.521959+05:30"
     },
     {
       "model": "Vivo Y19s 5G",
@@ -1673,7 +1673,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T17:43:52.928736+05:30"
+      "scraped_at": "2026-06-27T14:43:28.066673+05:30"
     },
     {
       "model": "Vivo T4 Lite 5G",
@@ -1871,7 +1871,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-24T15:34:48.146362+05:30"
+      "scraped_at": "2026-06-27T14:45:52.703172+05:30"
     },
     {
       "model": "Redmi Note 14 5G",
@@ -1889,7 +1889,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T17:51:04.398546+05:30"
+      "scraped_at": "2026-06-27T14:45:39.613920+05:30"
     },
     {
       "model": "Redmi Note 15 5G",
@@ -2474,7 +2474,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T17:43:44.994645+05:30"
+      "scraped_at": "2026-06-27T14:43:20.952608+05:30"
     },
     {
       "model": "Vivo Y200 5G",
@@ -2609,7 +2609,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-06-26T10:28:45.399085+05:30"
+      "scraped_at": "2026-06-27T14:45:46.142315+05:30"
     },
     {
       "model": "Redmi Note 15 SE 5G",
@@ -3263,10 +3263,10 @@
       "model": "Tecno POP X 5G",
       "brand": "Tecno",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹4,300",
+      "price_num": 4300,
       "source": "flipkart",
-      "scraped_at": "2026-06-25T10:20:04.572062+05:30"
+      "scraped_at": "2026-06-27T14:39:17.642418+05:30"
     },
     {
       "model": "Realme Narzo 100 Lite 5G",
@@ -3348,6 +3348,24 @@
       "price_num": null,
       "source": "not_found",
       "scraped_at": "2026-06-27T12:15:51.719833+05:30"
+    },
+    {
+      "model": "Xiaomi 17T",
+      "brand": "Xiaomi",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-06-27T14:47:29.185692+05:30"
+    },
+    {
+      "model": "Redmi Turbo 5",
+      "brand": "Xiaomi",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-06-27T14:47:34.804388+05:30"
     }
   ]
 }
