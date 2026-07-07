@@ -1,5 +1,5 @@
 {
-  "last_updated": "07 Jul 2026 10:18 IST",
+  "last_updated": "07 Jul 2026 12:50 IST",
   "total_models": 388,
   "prices_found": 187,
   "prices_missing": 201,
@@ -8,10 +8,17 @@
     "Samsung S26",
     "Samsung S26 Ultra",
     "Samsung S26+",
-    "Samsung Z Fold 6",
-    "Samsung Z Fold 7",
-    "Tecno Phantom V Fold 2 5G",
+    "Samsung Z Flip 6",
+    "Samsung Z Flip 7",
+    "Samsung Z Flip 7 FE",
     "Tecno Pop 9 4G",
+    "Tecno Pop 9 5G",
+    "Tecno POP X 5G",
+    "Tecno Pova 7",
+    "Tecno Pova 7 Pro",
+    "Tecno Pova Curve 2 5G",
+    "Tecno Spark Go 3 4G",
+    "Tecno Spark Go 5G",
     "Vivo T3 5G",
     "Vivo T3 Lite 5G",
     "Vivo T3 Pro",
@@ -59,6 +66,10 @@
     "Vivo Y31 5G",
     "Vivo Y31 Pro 5G",
     "Vivo Y39 5G",
+    "Vivo Y400 5G",
+    "Vivo Y400 Pro",
+    "Vivo Y51 Pro 5G",
+    "Vivo Y58 5G",
     "Vivo X300 FE",
     "Vivo X300 Ultra",
     "Redmi 13 5G",
@@ -70,12 +81,18 @@
     "Redmi A3x",
     "Redmi A4 5G",
     "Redmi A5",
+    "Redmi A7 Pro 5G",
+    "Redmi Note 14 5G",
+    "Redmi Note 14 Pro 5G",
+    "Redmi Note 14 Pro+ 5G",
+    "Redmi Note 15 5G",
+    "Redmi Note 15 Pro 5G",
+    "Redmi Note 15 Pro+ 5G",
     "Redmi Note 15 SE 5G",
     "Xiaomi 14 Civi",
     "Xiaomi 15",
     "Xiaomi 15 Ultra",
-    "Xiaomi 17",
-    "Xiaomi 17 Ultra"
+    "Xiaomi 17"
   ],
   "phones": [
     {
@@ -343,10 +360,10 @@
       "model": "Samsung Z Fold 7",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹1,499",
-      "price_num": 1499,
+      "price": "₹1,814",
+      "price_num": 1814,
       "source": "flipkart",
-      "scraped_at": "2026-07-05T10:13:11.105004+05:30"
+      "scraped_at": "2026-07-07T12:33:23.450038+05:30"
     },
     {
       "model": "OnePlus Nord CE 4 Lite",
@@ -739,10 +756,10 @@
       "model": "Tecno Phantom V Fold 2 5G",
       "brand": "Tecno",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,275",
+      "price_num": 1275,
       "source": "flipkart",
-      "scraped_at": "2026-07-05T10:13:17.536344+05:30"
+      "scraped_at": "2026-07-07T12:33:30.560167+05:30"
     },
     {
       "model": "iPhone 16 128GB",
@@ -1579,7 +1596,7 @@
       "price": "₹4,600",
       "price_num": 4600,
       "source": "flipkart",
-      "scraped_at": "2026-07-07T10:07:43.187918+05:30"
+      "scraped_at": "2026-07-07T12:36:21.776166+05:30"
     },
     {
       "model": "Tecno Pop 9 5G",
@@ -1624,7 +1641,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-07T10:07:29.779639+05:30"
+      "scraped_at": "2026-07-07T12:36:07.646404+05:30"
     },
     {
       "model": "Tecno Pova 7 Pro",
@@ -1642,7 +1659,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-07T10:07:36.485751+05:30"
+      "scraped_at": "2026-07-07T12:36:14.274011+05:30"
     },
     {
       "model": "Vivo Y19 5G",
@@ -1909,10 +1926,10 @@
       "model": "Xiaomi 17 Ultra",
       "brand": "Xiaomi",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,299",
+      "price_num": 1299,
       "source": "flipkart",
-      "scraped_at": "2026-07-06T13:46:26.596895+05:30"
+      "scraped_at": "2026-07-07T12:50:31.163625+05:30"
     },
     {
       "model": "Samsung S24 Plus",
@@ -2314,10 +2331,10 @@
       "model": "Samsung Z Fold 6",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹1,648",
-      "price_num": 1648,
+      "price": "₹1,399",
+      "price_num": 1399,
       "source": "flipkart",
-      "scraped_at": "2026-07-05T10:13:04.434826+05:30"
+      "scraped_at": "2026-07-07T12:33:16.395365+05:30"
     },
     {
       "model": "Vivo T3 5G",
@@ -3343,7 +3360,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-07T10:18:20.084836+05:30"
+      "scraped_at": "2026-07-07T12:50:37.386739+05:30"
     },
     {
       "model": "Redmi Turbo 5",
@@ -3352,7 +3369,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-07T10:18:26.364412+05:30"
+      "scraped_at": "2026-07-07T12:50:43.697664+05:30"
     }
   ]
 }
