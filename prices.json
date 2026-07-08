@@ -1,78 +1,95 @@
 {
-  "last_updated": "08 Jul 2026 09:42 IST",
+  "last_updated": "08 Jul 2026 11:51 IST",
   "total_models": 388,
   "prices_found": 216,
   "prices_missing": 172,
   "coverage_pct": 55.7,
   "failed_models": [
-    "CMF Phone 2 Pro",
-    "Nothing Phone 2A",
-    "Nothing Phone 2A Plus",
-    "Nothing Phone 3A Pro",
-    "Nothing Phone 4A",
-    "Nothing Phone 4A Pro",
-    "OnePlus 13",
-    "OnePlus 13R",
-    "OnePlus 13S",
-    "OnePlus 15 5G",
-    "OnePlus 15R 5G",
-    "OnePlus Nord 4",
-    "OnePlus Nord 5",
-    "OnePlus Nord 6",
-    "OnePlus Nord CE 4",
-    "OnePlus Nord CE 4 Lite",
-    "OnePlus Nord CE5",
-    "Oppo A3x 5G",
-    "Oppo A5 5G",
-    "Oppo A5 Pro",
-    "Oppo A5x 4G",
-    "Oppo A5x 5G",
-    "Oppo A6 5G",
-    "Oppo F31 Pro+ 5G",
-    "Oppo Find X8",
-    "Oppo Find X8 Pro",
-    "Oppo K13 5G",
-    "Oppo K13 Turbo",
-    "Oppo K13 Turbo Pro",
-    "Oppo K13x",
-    "Oppo K14",
-    "Oppo K14 5G",
-    "Oppo K14x 5G",
-    "Oppo Reno 11",
-    "Oppo Reno 11 Pro",
-    "Oppo Reno 12",
-    "Oppo Reno 12 Pro",
-    "Oppo Reno 13",
-    "Oppo Reno 13 Pro",
-    "Oppo Reno 14",
-    "Oppo Reno 14 Pro",
-    "Oppo Reno 15",
-    "Oppo Reno 15 Pro",
-    "Oppo Reno 15 Pro Mini",
-    "Oppo Reno 15C",
-    "Oppo F33 5G",
-    "Oppo F33 Pro 5G",
-    "Oppo Find X9 Ultra",
-    "Oppo Find X9s",
-    "POCO C61",
-    "POCO C65",
-    "POCO C71",
-    "POCO C75 5G",
-    "POCO C81",
-    "POCO C81x",
-    "POCO C85",
-    "POCO C85x",
-    "POCO F7 5G",
-    "POCO M7 5G",
-    "POCO M7 Plus 5G",
-    "POCO M7 Pro",
-    "POCO M8 5G",
-    "POCO X7",
-    "POCO X7 Pro 5G",
-    "POCO X8 Pro",
-    "POCO X8 Pro Max",
-    "Realme 13 Pro+ 5G",
-    "Realme 14 Pro 5G"
+    "Realme 14 Pro Lite 5G",
+    "Realme 14 Pro+ 5G",
+    "Realme 14T 5G",
+    "Realme 14x 5G",
+    "Realme 15 5G",
+    "Realme 15 Lite 5G",
+    "Realme 15 Pro 5G",
+    "Realme 15 Pro Limited Edition",
+    "Realme 15T 5G",
+    "Realme 15x 5G",
+    "Realme 16 5G",
+    "Realme C71 5G",
+    "Realme C73 5G",
+    "Realme C75 5G",
+    "Realme C83 5G",
+    "Realme C85 5G",
+    "Realme GT 7",
+    "Realme GT 7 5G",
+    "Realme GT 7 Pro 5G",
+    "Realme GT 7T 5G",
+    "Realme GT 8 Pro 5G",
+    "Realme Narzo 100 Lite 5G",
+    "Realme Narzo 80x 5G",
+    "Realme Narzo 90 5G",
+    "Realme Narzo 90x 5G",
+    "Realme Narzo Power 5G",
+    "Realme P3 5G",
+    "Realme P3 Lite 5G",
+    "Realme P3 Pro 5G",
+    "Realme P3 Ultra 5G",
+    "Realme P4 5G",
+    "Realme P4 Lite 4G",
+    "Realme P4 Lite 5G",
+    "Realme P4 Power 5G",
+    "Realme P4 Pro 5G",
+    "Realme P4x 5G",
+    "Realme 16T 5G",
+    "Realme P4R 5G",
+    "Samsung A05 4G",
+    "Samsung A06",
+    "Samsung A06 5G",
+    "Samsung A07",
+    "Samsung A07 5G",
+    "Samsung A15 5G",
+    "Samsung A16 5G",
+    "Samsung A17 5G",
+    "Samsung A26 5G",
+    "Samsung A35 5G",
+    "Samsung A36 5G",
+    "Samsung A37 5G",
+    "Samsung A55 5G",
+    "Samsung A56 5G",
+    "Samsung A57 5G",
+    "Samsung F05",
+    "Samsung F07",
+    "Samsung F13",
+    "Samsung F14 LTE",
+    "Samsung F15 5G",
+    "Samsung F16 5G",
+    "Samsung F17 5G",
+    "Samsung F36 5G",
+    "Samsung F55 5G",
+    "Samsung F56 5G",
+    "Samsung F70e 5G",
+    "Samsung Galaxy X Cover 7",
+    "Samsung M05",
+    "Samsung M17 5G",
+    "Samsung M17e 5G",
+    "Samsung M35 5G",
+    "Samsung M36 5G",
+    "Samsung M55 5G",
+    "Samsung M55s 5G",
+    "Samsung M56 5G",
+    "Samsung S23",
+    "Samsung S23 FE",
+    "Samsung S23 Ultra",
+    "Samsung S24",
+    "Samsung S24 FE",
+    "Samsung S24 Plus",
+    "Samsung S24 Ultra",
+    "Samsung S25",
+    "Samsung S25 Edge",
+    "Samsung S25 FE",
+    "Samsung S25 Plus",
+    "Samsung S25 Ultra"
   ],
   "phones": [
     {
@@ -2629,7 +2646,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-02T12:25:13.661883+05:30"
+      "scraped_at": "2026-07-08T11:43:24.529362+05:30"
     },
     {
       "model": "Realme 16 Pro+",
@@ -2638,7 +2655,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-02T12:25:27.048511+05:30"
+      "scraped_at": "2026-07-08T11:43:37.391420+05:30"
     },
     {
       "model": "Realme C71",
@@ -2647,7 +2664,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-02T12:25:33.440796+05:30"
+      "scraped_at": "2026-07-08T11:43:43.637833+05:30"
     },
     {
       "model": "Realme C71 5G",
@@ -2728,7 +2745,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-05T12:32:35.092030+05:30"
+      "scraped_at": "2026-07-08T11:44:53.285393+05:30"
     },
     {
       "model": "Realme Narzo 80 Lite 5G",
@@ -2737,7 +2754,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-05T12:32:41.344623+05:30"
+      "scraped_at": "2026-07-08T11:44:59.656610+05:30"
     },
     {
       "model": "Realme Narzo 80 Pro 5G",
@@ -2746,7 +2763,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-05T12:32:48.019009+05:30"
+      "scraped_at": "2026-07-08T11:45:06.263783+05:30"
     },
     {
       "model": "Realme NARZO 80 Pro 5G",
@@ -2755,7 +2772,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-05T12:32:54.680404+05:30"
+      "scraped_at": "2026-07-08T11:45:13.132381+05:30"
     },
     {
       "model": "Realme Narzo 80x 5G",
@@ -2890,7 +2907,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-02T12:25:20.220888+05:30"
+      "scraped_at": "2026-07-08T11:43:30.794651+05:30"
     },
     {
       "model": "Samsung A05 4G",
@@ -3097,7 +3114,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-03T12:24:43.433560+05:30"
+      "scraped_at": "2026-07-08T11:49:30.834004+05:30"
     },
     {
       "model": "Samsung M07",
@@ -3106,7 +3123,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-03T12:24:50.606019+05:30"
+      "scraped_at": "2026-07-08T11:49:37.441647+05:30"
     },
     {
       "model": "Samsung M15 5G",
@@ -3115,7 +3132,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-02T12:37:45.967581+05:30"
+      "scraped_at": "2026-07-08T11:49:44.085489+05:30"
     },
     {
       "model": "Samsung M16 5G",
@@ -3124,7 +3141,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-03T12:25:03.003429+05:30"
+      "scraped_at": "2026-07-08T11:49:50.549563+05:30"
     },
     {
       "model": "Samsung M17e 5G",
