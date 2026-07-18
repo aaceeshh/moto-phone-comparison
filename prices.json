@@ -1,68 +1,91 @@
 {
-  "last_updated": "17 Jul 2026 17:02 IST",
-  "total_models": 385,
+  "last_updated": "18 Jul 2026 09:47 IST",
+  "total_models": 391,
   "prices_found": 271,
-  "prices_missing": 114,
-  "coverage_pct": 70.4,
+  "prices_missing": 120,
+  "coverage_pct": 69.3,
   "failed_models": [
-    "Samsung S26 Ultra",
-    "Samsung S26+",
-    "Samsung Z Flip 6",
-    "Samsung Z Flip 7",
-    "Samsung Z Flip 7 FE",
-    "Samsung Z Fold 6",
-    "Samsung Z Fold 7",
-    "Tecno Phantom V Fold 2 5G",
-    "Tecno Pop 9 4G",
-    "Tecno Spark Go 2 4G",
-    "Tecno Spark Go 3 4G",
-    "Tecno Spark Go 5G",
-    "Vivo T3 5G",
-    "Vivo T3 Lite 5G",
-    "Vivo T3 Pro",
-    "Vivo T4 Pro",
-    "Vivo T4 Ultra",
-    "Vivo T4R 5G",
-    "Vivo T4x",
-    "Vivo T5x",
-    "Vivo V40",
-    "Vivo V60 5G",
-    "Vivo V60e",
-    "Vivo V70 5G",
-    "Vivo V70 Elite 5G",
-    "Vivo V70 FE",
-    "Vivo X Fold 3 Pro",
-    "Vivo X Fold5",
-    "Vivo X200",
-    "Vivo X200 FE",
-    "Vivo Y11 5G",
-    "Vivo Y19 5G",
-    "Vivo Y19e",
-    "Vivo Y21 5G",
-    "Vivo Y28 5G",
-    "Vivo Y28e 5G",
-    "Vivo Y28s 5G",
-    "Vivo Y29 5G",
-    "Vivo Y300 5G",
-    "Vivo Y300 Plus",
-    "Vivo Y31 5G",
-    "Vivo Y31 Pro 5G",
-    "Vivo Y39 5G",
-    "Vivo Y400 5G",
-    "Vivo Y400 Pro",
-    "Vivo Y51 Pro 5G",
-    "Redmi 13C 5G",
-    "Redmi 14C 5G",
-    "Redmi 15 5G",
-    "Redmi A5",
-    "Redmi A7 Pro 5G",
-    "Redmi Note 14 5G",
-    "Redmi Note 14 Pro 5G",
-    "Redmi Note 14 Pro+ 5G",
-    "Redmi Note 15 5G",
-    "Redmi Note 15 Pro 5G",
-    "Redmi Note 15 Pro+ 5G",
-    "Redmi Note 15 SE 5G"
+    "IQOO Neo 10R",
+    "IQOO Z10 5G",
+    "IQOO Z10 Lite 5G",
+    "IQOO Z10R",
+    "IQOO Z10x",
+    "IQOO Z11x",
+    "Nothing Phone 4b",
+    "CMF Phone 1",
+    "CMF Phone 2 Pro",
+    "Nothing Phone 2A",
+    "Nothing Phone 2A Plus",
+    "Nothing Phone 3",
+    "Nothing Phone 3A",
+    "Nothing Phone 3A Community Edition",
+    "Nothing Phone 3A Lite",
+    "Nothing Phone 3A Pro",
+    "Nothing Phone 4A",
+    "Nothing Phone 4A Pro",
+    "OnePlus 13",
+    "OnePlus 13R",
+    "OnePlus 13S",
+    "OnePlus 15 5G",
+    "OnePlus 15R 5G",
+    "OnePlus Nord 4",
+    "OnePlus Nord 5",
+    "OnePlus Nord 6",
+    "OnePlus Nord CE 4",
+    "OnePlus Nord CE 4 Lite",
+    "OnePlus Nord CE5",
+    "OnePlus Open",
+    "OnePlus Nord CE 6",
+    "OnePlus Nord CE 6 Lite",
+    "Oppo Reno 16",
+    "Oppo Reno 16C",
+    "Oppo A3",
+    "Oppo A3 Pro",
+    "Oppo A3x",
+    "Oppo A3x 5G",
+    "Oppo A5 5G",
+    "Oppo A5 Pro",
+    "Oppo A5x 4G",
+    "Oppo A5x 5G",
+    "Oppo A6 5G",
+    "Oppo A6x 5G",
+    "Oppo F27",
+    "Oppo F27 Pro+",
+    "Oppo K14 5G",
+    "Oppo K14x 5G",
+    "Oppo Reno 11",
+    "Oppo Reno 11 Pro",
+    "Oppo Reno 12",
+    "Oppo Reno 12 Pro",
+    "Oppo Reno 13",
+    "Oppo Reno 13 Pro",
+    "Oppo Reno 14",
+    "Oppo Reno 14 Pro",
+    "Oppo Reno 15",
+    "Oppo Reno 15 Pro",
+    "Oppo Reno 15 Pro Mini",
+    "Oppo Reno 15C",
+    "Oppo F33 5G",
+    "Oppo F33 Pro 5G",
+    "Oppo Find X9 Ultra",
+    "Oppo Find X9s",
+    "POCO C61",
+    "POCO C65",
+    "POCO C71",
+    "POCO C75 5G",
+    "POCO C81",
+    "POCO C81x",
+    "POCO C85",
+    "POCO C85x",
+    "POCO F7 5G",
+    "POCO M7 5G",
+    "POCO M7 Plus 5G",
+    "POCO M7 Pro",
+    "POCO M8 5G",
+    "POCO X7",
+    "POCO X7 Pro 5G",
+    "POCO X8 Pro",
+    "POCO X8 Pro Max"
   ],
   "phones": [
     {
@@ -618,10 +641,10 @@
       "model": "Oppo K13 5G",
       "brand": "Oppo",
       "type": "comp",
-      "price": "₹2,686",
-      "price_num": 2686,
+      "price": "₹5,000",
+      "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:36:44.462799+05:30"
+      "scraped_at": "2026-07-18T09:32:40.905467+05:30"
     },
     {
       "model": "Oppo F31 5G",
@@ -630,7 +653,7 @@
       "price": "₹1,226",
       "price_num": 1226,
       "source": "flipkart",
-      "scraped_at": "2026-07-17T09:22:24.429346+05:30"
+      "scraped_at": "2026-07-18T09:31:45.819235+05:30"
     },
     {
       "model": "Oppo Reno 15",
@@ -648,7 +671,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-17T09:22:44.410252+05:30"
+      "scraped_at": "2026-07-18T09:32:07.005728+05:30"
     },
     {
       "model": "Oppo Find X9",
@@ -657,7 +680,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:36:24.654736+05:30"
+      "scraped_at": "2026-07-18T09:32:20.769330+05:30"
     },
     {
       "model": "CMF Phone 2 Pro",
@@ -1413,7 +1436,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-11T09:36:29.989692+05:30"
+      "scraped_at": "2026-07-18T09:31:39.494318+05:30"
     },
     {
       "model": "Oppo A6 5G",
@@ -1431,7 +1454,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-11T09:35:51.071463+05:30"
+      "scraped_at": "2026-07-18T09:30:04.586377+05:30"
     },
     {
       "model": "Oppo K13 Turbo",
@@ -1440,7 +1463,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:36:50.972801+05:30"
+      "scraped_at": "2026-07-18T09:32:48.402939+05:30"
     },
     {
       "model": "Oppo F31 Pro 5G",
@@ -1449,7 +1472,7 @@
       "price": "₹1,351",
       "price_num": 1351,
       "source": "flipkart",
-      "scraped_at": "2026-07-17T09:22:30.938738+05:30"
+      "scraped_at": "2026-07-18T09:31:52.490797+05:30"
     },
     {
       "model": "Oppo Reno 15C",
@@ -1467,7 +1490,7 @@
       "price": "₹1,351",
       "price_num": 1351,
       "source": "flipkart",
-      "scraped_at": "2026-07-17T09:22:37.674215+05:30"
+      "scraped_at": "2026-07-18T09:31:59.563573+05:30"
     },
     {
       "model": "Oppo K13 Turbo Pro",
@@ -1476,7 +1499,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:36:57.191224+05:30"
+      "scraped_at": "2026-07-18T09:32:55.177338+05:30"
     },
     {
       "model": "Oppo Reno 15 Pro Mini",
@@ -1503,7 +1526,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:36:17.908441+05:30"
+      "scraped_at": "2026-07-18T09:32:13.874747+05:30"
     },
     {
       "model": "Oppo Find X9 Pro",
@@ -1512,7 +1535,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:36:31.010072+05:30"
+      "scraped_at": "2026-07-18T09:32:27.659491+05:30"
     },
     {
       "model": "POCO C71",
@@ -1989,7 +2012,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-11T09:35:57.546864+05:30"
+      "scraped_at": "2026-07-18T09:30:10.795362+05:30"
     },
     {
       "model": "Oppo A6s 5G",
@@ -1998,7 +2021,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-11T09:36:04.249999+05:30"
+      "scraped_at": "2026-07-18T09:30:17.464526+05:30"
     },
     {
       "model": "Oppo F27",
@@ -2025,7 +2048,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:36:37.841295+05:30"
+      "scraped_at": "2026-07-18T09:32:34.185369+05:30"
     },
     {
       "model": "Oppo K13x",
@@ -2034,7 +2057,7 @@
       "price": "₹1,757",
       "price_num": 1757,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:37:03.490088+05:30"
+      "scraped_at": "2026-07-18T09:33:01.025934+05:30"
     },
     {
       "model": "Oppo K14",
@@ -2043,7 +2066,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-16T09:37:10.045553+05:30"
+      "scraped_at": "2026-07-18T09:33:07.763420+05:30"
     },
     {
       "model": "Oppo K14 5G",
@@ -3412,6 +3435,15 @@
       "price_num": null,
       "source": "not_found",
       "scraped_at": "2026-07-14T09:41:53.090735+05:30"
+    },
+    {
+      "model": "Oppo Reno 16C",
+      "brand": "Oppo",
+      "type": "comp",
+      "price": null,
+      "price_num": null,
+      "source": "not_found",
+      "scraped_at": "2026-07-18T09:26:11.598066+05:30"
     }
   ]
 }
