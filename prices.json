@@ -1,79 +1,75 @@
 {
-  "last_updated": "06 Aug 2026 17:35 IST",
+  "last_updated": "07 Aug 2026 09:28 IST",
   "total_models": 391,
   "prices_found": 295,
   "prices_missing": 96,
   "coverage_pct": 75.4,
   "failed_models": [
-    "Samsung S26",
-    "Samsung S26 Ultra",
-    "Samsung S26+",
-    "Samsung Z Flip 6",
-    "Samsung Z Flip 7",
-    "Samsung Z Flip 7 FE",
-    "Samsung Z Fold 6",
-    "Samsung Z Fold 7",
-    "Tecno Phantom V Fold 2 5G",
-    "Tecno Pop 9 4G",
-    "Tecno Pop 9 5G",
-    "Tecno POP X 5G",
-    "Tecno Pova 7",
-    "Tecno Pova 7 Pro",
-    "Tecno Pova Curve 2 5G",
-    "Tecno Spark Go 3 4G",
-    "Tecno Spark Go 5G",
-    "Vivo T3 5G",
-    "Vivo T4 5G",
-    "Vivo T4 Lite 5G",
-    "Vivo T4 Pro",
-    "Vivo T4 Ultra",
-    "Vivo T4R 5G",
-    "Vivo T4x",
-    "Vivo V70 Elite 5G",
-    "Vivo V70 FE",
-    "Vivo X Fold 3 Pro",
-    "Vivo X Fold5",
-    "Vivo X200",
-    "Vivo X200 FE",
-    "Vivo Y11 5G",
-    "Vivo Y19 5G",
-    "Vivo Y19e",
-    "Vivo Y19s 5G",
-    "Vivo Y200 5G",
-    "Vivo Y200 Pro 5G",
-    "Vivo Y200e 5G",
-    "Vivo Y21 5G",
-    "Vivo Y28 5G",
-    "Vivo Y28e 5G",
-    "Vivo Y28s 5G",
-    "Vivo Y29 5G",
-    "Vivo Y300 5G",
-    "Vivo Y300 Plus",
-    "Vivo Y31 5G",
-    "Vivo Y31 Pro 5G",
-    "Vivo Y39 5G",
-    "Vivo Y400 5G",
-    "Vivo Y400 Pro",
-    "Vivo Y51 Pro 5G",
-    "Vivo Y58 5G",
-    "Vivo X300 FE",
-    "Vivo X300 Ultra",
-    "Xiaomi 17T",
-    "Redmi Turbo 5",
-    "Redmi 13 5G",
-    "Redmi 13C 5G",
-    "Redmi 14C 5G",
-    "Redmi 15 5G",
-    "Redmi 15A 5G",
-    "Redmi 15C 5G",
-    "Redmi A3x",
-    "Redmi A4 5G",
-    "Redmi Note 15 Pro+ 5G",
-    "Redmi Note 15 SE 5G",
-    "Xiaomi 14 Civi",
-    "Xiaomi 15",
-    "Xiaomi 15 Ultra",
-    "Xiaomi 17"
+    "IQOO Neo 10R",
+    "IQOO Z10 5G",
+    "IQOO Z10 Lite 5G",
+    "Nothing Phone 2A Plus",
+    "Nothing Phone 3",
+    "Nothing Phone 3A",
+    "Nothing Phone 4A",
+    "Nothing Phone 4A Pro",
+    "OnePlus 13",
+    "OnePlus 13R",
+    "OnePlus 13S",
+    "OnePlus 15 5G",
+    "OnePlus 15R 5G",
+    "OnePlus Nord 4",
+    "OnePlus Nord 5",
+    "OnePlus Nord 6",
+    "OnePlus Nord CE 4",
+    "OnePlus Nord CE 4 Lite",
+    "OnePlus Nord CE5",
+    "OnePlus Open",
+    "OnePlus Nord CE 6",
+    "Oppo A5 5G",
+    "Oppo A5 Pro",
+    "Oppo A5x 4G",
+    "Oppo A5x 5G",
+    "Oppo A6 5G",
+    "Oppo A6 Pro 5G",
+    "Oppo A6s",
+    "Oppo A6s 5G",
+    "Oppo A6x 5G",
+    "Oppo Find X8",
+    "Oppo Find X8 Pro",
+    "Oppo Find X9",
+    "Oppo Find X9 Pro",
+    "Oppo K12x",
+    "Oppo K13 5G",
+    "Oppo K13 Turbo",
+    "Oppo K13 Turbo Pro",
+    "Oppo K13x",
+    "Oppo K14",
+    "Oppo K14 5G",
+    "Oppo K14x 5G",
+    "Oppo Reno 11",
+    "Oppo Reno 11 Pro",
+    "Oppo Reno 12",
+    "Oppo Reno 12 Pro",
+    "Oppo Reno 13",
+    "Oppo Reno 13 Pro",
+    "POCO C61",
+    "POCO C65",
+    "POCO C71",
+    "POCO C75 5G",
+    "POCO C81",
+    "POCO C81x",
+    "POCO C85",
+    "POCO C85x",
+    "POCO F7 5G",
+    "POCO M7 5G",
+    "POCO M7 Plus 5G",
+    "POCO M7 Pro",
+    "POCO M8 5G",
+    "POCO X7",
+    "POCO X7 Pro 5G",
+    "POCO X8 Pro",
+    "POCO X8 Pro Max"
   ],
   "phones": [
     {
@@ -641,7 +637,7 @@
       "price": "₹1,130",
       "price_num": 1130,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:34:36.400232+05:30"
+      "scraped_at": "2026-08-07T09:14:15.350905+05:30"
     },
     {
       "model": "Oppo Reno 15",
@@ -650,7 +646,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:40:00.849985+05:30"
+      "scraped_at": "2026-08-07T09:21:29.267032+05:30"
     },
     {
       "model": "Oppo Find X8",
@@ -677,7 +673,7 @@
       "price": "₹1,307",
       "price_num": 1307,
       "source": "flipkart",
-      "scraped_at": "2026-07-28T09:20:14.488905+05:30"
+      "scraped_at": "2026-08-07T09:02:42.134770+05:30"
     },
     {
       "model": "Nothing Phone 3A",
@@ -695,7 +691,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:24:22.319505+05:30"
+      "scraped_at": "2026-08-07T09:04:14.560843+05:30"
     },
     {
       "model": "Nothing Phone 3",
@@ -1253,7 +1249,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-30T09:12:20.605548+05:30"
+      "scraped_at": "2026-08-07T09:02:17.791361+05:30"
     },
     {
       "model": "IQOO Z11x",
@@ -1262,7 +1258,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-30T09:12:27.425333+05:30"
+      "scraped_at": "2026-08-07T09:02:23.652928+05:30"
     },
     {
       "model": "IQOO Z10R",
@@ -1271,7 +1267,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-30T09:12:13.715688+05:30"
+      "scraped_at": "2026-08-07T09:02:09.987797+05:30"
     },
     {
       "model": "IQOO Z10 5G",
@@ -1295,19 +1291,19 @@
       "model": "CMF Phone 1",
       "brand": "Nothing",
       "type": "comp",
-      "price": "₹1,050",
-      "price_num": 1050,
+      "price": "₹1,149",
+      "price_num": 1149,
       "source": "flipkart",
-      "scraped_at": "2026-07-30T09:12:40.770119+05:30"
+      "scraped_at": "2026-08-07T09:02:36.373875+05:30"
     },
     {
       "model": "Nothing Phone 3A Lite",
       "brand": "Nothing",
       "type": "comp",
-      "price": "₹1,139",
-      "price_num": 1139,
+      "price": "₹1,099",
+      "price_num": 1099,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:24:15.623151+05:30"
+      "scraped_at": "2026-08-07T09:04:08.046879+05:30"
     },
     {
       "model": "Nothing Phone 2A",
@@ -1316,7 +1312,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:23:41.799975+05:30"
+      "scraped_at": "2026-08-07T09:02:48.385738+05:30"
     },
     {
       "model": "Nothing Phone 2A Plus",
@@ -1424,7 +1420,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:34:29.945966+05:30"
+      "scraped_at": "2026-08-07T09:14:08.727842+05:30"
     },
     {
       "model": "Oppo A6 5G",
@@ -1460,7 +1456,7 @@
       "price": "₹1,244",
       "price_num": 1244,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:34:43.244102+05:30"
+      "scraped_at": "2026-08-07T09:14:22.155390+05:30"
     },
     {
       "model": "Oppo Reno 15C",
@@ -1469,16 +1465,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-04T09:39:00.575428+05:30"
+      "scraped_at": "2026-08-07T09:21:52.539871+05:30"
     },
     {
       "model": "Oppo F31 Pro+ 5G",
       "brand": "Oppo",
       "type": "comp",
-      "price": "₹1,371",
-      "price_num": 1371,
+      "price": "₹1,244",
+      "price_num": 1244,
       "source": "flipkart",
-      "scraped_at": "2026-07-28T09:33:25.753219+05:30"
+      "scraped_at": "2026-08-07T09:14:29.050325+05:30"
     },
     {
       "model": "Oppo K13 Turbo Pro",
@@ -1496,7 +1492,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:40:14.917696+05:30"
+      "scraped_at": "2026-08-07T09:21:43.353119+05:30"
     },
     {
       "model": "Oppo Reno 15 Pro",
@@ -1505,7 +1501,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:40:07.846867+05:30"
+      "scraped_at": "2026-08-07T09:21:36.208234+05:30"
     },
     {
       "model": "Oppo Find X8 Pro",
@@ -1946,7 +1942,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:24:08.955819+05:30"
+      "scraped_at": "2026-08-07T09:04:00.965332+05:30"
     },
     {
       "model": "Oppo A3",
@@ -1955,7 +1951,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:30:41.899748+05:30"
+      "scraped_at": "2026-08-07T09:09:52.063054+05:30"
     },
     {
       "model": "Oppo A3 Pro",
@@ -1964,7 +1960,7 @@
       "price": "₹1,283",
       "price_num": 1283,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:30:48.684340+05:30"
+      "scraped_at": "2026-08-07T09:09:58.871050+05:30"
     },
     {
       "model": "Oppo A3x",
@@ -1973,7 +1969,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:30:55.314688+05:30"
+      "scraped_at": "2026-08-07T09:10:04.863299+05:30"
     },
     {
       "model": "Oppo A3x 5G",
@@ -1982,7 +1978,7 @@
       "price": "₹1,211",
       "price_num": 1211,
       "source": "flipkart",
-      "scraped_at": "2026-08-04T09:28:33.440748+05:30"
+      "scraped_at": "2026-08-07T09:10:13.664271+05:30"
     },
     {
       "model": "Oppo A5 Pro",
@@ -2015,10 +2011,10 @@
       "model": "Oppo F27",
       "brand": "Oppo",
       "type": "comp",
-      "price": "₹1,326",
-      "price_num": 1326,
+      "price": "₹5,000",
+      "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-05T09:25:33.137326+05:30"
+      "scraped_at": "2026-08-07T09:13:54.596729+05:30"
     },
     {
       "model": "Oppo F27 Pro+",
@@ -2027,7 +2023,7 @@
       "price": "₹1,209",
       "price_num": 1209,
       "source": "flipkart",
-      "scraped_at": "2026-08-05T09:25:39.777651+05:30"
+      "scraped_at": "2026-08-07T09:14:02.018573+05:30"
     },
     {
       "model": "Oppo K12x",
@@ -2123,10 +2119,10 @@
       "model": "Oppo Reno 14",
       "brand": "Oppo",
       "type": "comp",
-      "price": "₹1,299",
-      "price_num": 1299,
+      "price": "₹1,220",
+      "price_num": 1220,
       "source": "flipkart",
-      "scraped_at": "2026-07-30T09:19:07.269536+05:30"
+      "scraped_at": "2026-08-07T09:21:14.694580+05:30"
     },
     {
       "model": "Oppo Reno 14 Pro",
@@ -2135,7 +2131,7 @@
       "price": "₹1,191",
       "price_num": 1191,
       "source": "flipkart",
-      "scraped_at": "2026-08-04T09:38:33.217422+05:30"
+      "scraped_at": "2026-08-07T09:21:21.868477+05:30"
     },
     {
       "model": "POCO C61",
@@ -3269,7 +3265,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-04T09:39:07.113703+05:30"
+      "scraped_at": "2026-08-07T09:21:58.794317+05:30"
     },
     {
       "model": "Oppo F33 Pro 5G",
@@ -3278,7 +3274,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-04T09:39:13.851155+05:30"
+      "scraped_at": "2026-08-07T09:22:04.667596+05:30"
     },
     {
       "model": "POCO C81",
@@ -3368,7 +3364,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-05T09:21:39.204402+05:30"
+      "scraped_at": "2026-08-07T09:09:32.030902+05:30"
     },
     {
       "model": "Oppo Find X9 Ultra",
@@ -3377,7 +3373,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:41:24.176930+05:30"
+      "scraped_at": "2026-08-07T09:22:12.077207+05:30"
     },
     {
       "model": "Oppo Find X9s",
@@ -3386,7 +3382,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-06T09:41:31.376791+05:30"
+      "scraped_at": "2026-08-07T09:22:18.093192+05:30"
     },
     {
       "model": "Samsung M47 5G",
@@ -3404,7 +3400,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-07-30T09:12:34.061150+05:30"
+      "scraped_at": "2026-08-07T09:02:30.179481+05:30"
     },
     {
       "model": "Oppo Reno 16",
@@ -3413,7 +3409,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-08-05T09:21:45.440702+05:30"
+      "scraped_at": "2026-08-07T09:09:38.670909+05:30"
     },
     {
       "model": "Oppo Reno 16c",
@@ -3428,10 +3424,10 @@
       "model": "Oppo Reno 16C",
       "brand": "Oppo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,398",
+      "price_num": 1398,
       "source": "flipkart",
-      "scraped_at": "2026-08-05T09:21:52.267502+05:30"
+      "scraped_at": "2026-08-07T09:09:45.542468+05:30"
     }
   ]
 }
