@@ -1,5 +1,5 @@
 {
-  "last_updated": "01 Oct 2026 12:05 IST",
+  "last_updated": "01 Oct 2026 16:03 IST",
   "total_models": 418,
   "prices_found": 304,
   "prices_missing": 114,
@@ -211,16 +211,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:03.543286+05:30"
+      "scraped_at": "2026-10-01T15:52:38.004790+05:30"
     },
     {
       "model": "Samsung S25 Plus",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,871",
+      "price_num": 1871,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:09.270666+05:30"
+      "scraped_at": "2026-10-01T15:52:44.157972+05:30"
     },
     {
       "model": "Samsung S26",
@@ -229,7 +229,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:20.482012+05:30"
+      "scraped_at": "2026-10-01T15:52:55.977586+05:30"
     },
     {
       "model": "Samsung S26+",
@@ -238,16 +238,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:31.660414+05:30"
+      "scraped_at": "2026-10-01T15:53:08.288223+05:30"
     },
     {
       "model": "Samsung S26 Ultra",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,130",
+      "price_num": 1130,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:26.122451+05:30"
+      "scraped_at": "2026-10-01T15:53:02.125742+05:30"
     },
     {
       "model": "Samsung Z Flip 7",
@@ -256,7 +256,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:42.858335+05:30"
+      "scraped_at": "2026-10-01T15:53:20.363429+05:30"
     },
     {
       "model": "Samsung Z Flip 7 FE",
@@ -265,16 +265,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:48.486228+05:30"
+      "scraped_at": "2026-10-01T15:53:26.638989+05:30"
     },
     {
       "model": "Samsung Z Fold 7",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,905",
+      "price_num": 1905,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:59.653202+05:30"
+      "scraped_at": "2026-10-01T15:53:38.584998+05:30"
     },
     {
       "model": "OnePlus Nord CE 4 Lite",
@@ -409,7 +409,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:43.611286+05:30"
+      "scraped_at": "2026-10-01T16:02:00.818451+05:30"
     },
     {
       "model": "Redmi Note 14 Pro+ 5G",
@@ -418,7 +418,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:49.134007+05:30"
+      "scraped_at": "2026-10-01T16:02:06.987095+05:30"
     },
     {
       "model": "Redmi Note 15 Pro 5G",
@@ -427,7 +427,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:40:00.278636+05:30"
+      "scraped_at": "2026-10-01T16:02:18.855208+05:30"
     },
     {
       "model": "Redmi Note 15 Pro+ 5G",
@@ -436,7 +436,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:40:05.821260+05:30"
+      "scraped_at": "2026-10-01T16:02:24.862109+05:30"
     },
     {
       "model": "POCO X7 Pro 5G",
@@ -463,7 +463,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:40:22.611845+05:30"
+      "scraped_at": "2026-10-01T16:02:43.246511+05:30"
     },
     {
       "model": "Xiaomi 15 Ultra",
@@ -472,7 +472,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:40:28.239229+05:30"
+      "scraped_at": "2026-10-01T16:02:50.501893+05:30"
     },
     {
       "model": "IQOO Neo 10R",
@@ -517,7 +517,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:02.905378+05:30"
+      "scraped_at": "2026-10-01T15:55:54.999896+05:30"
     },
     {
       "model": "Vivo T4 Pro",
@@ -526,7 +526,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:51.733439+05:30"
+      "scraped_at": "2026-10-01T15:55:41.826159+05:30"
     },
     {
       "model": "Vivo T4 Ultra",
@@ -535,16 +535,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:57.330201+05:30"
+      "scraped_at": "2026-10-01T15:55:47.794684+05:30"
     },
     {
       "model": "Vivo V60 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,151",
+      "price_num": 1151,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:53.566455+05:30"
+      "scraped_at": "2026-10-01T15:56:49.062984+05:30"
     },
     {
       "model": "Vivo X300",
@@ -553,7 +553,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:56.137276+05:30"
+      "scraped_at": "2026-10-01T15:57:56.402016+05:30"
     },
     {
       "model": "Oppo K13 5G",
@@ -661,7 +661,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:38.895392+05:30"
+      "scraped_at": "2026-10-01T15:54:22.802061+05:30"
     },
     {
       "model": "Tecno Phantom V Fold 2 5G",
@@ -670,7 +670,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:05.374394+05:30"
+      "scraped_at": "2026-10-01T15:53:44.636076+05:30"
     },
     {
       "model": "iPhone 16 128GB",
@@ -1498,16 +1498,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:11.003277+05:30"
+      "scraped_at": "2026-10-01T15:53:50.833764+05:30"
     },
     {
       "model": "Tecno Spark Go 2 4G",
       "brand": "Tecno",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,404",
+      "price_num": 1404,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:55.702629+05:30"
+      "scraped_at": "2026-10-01T15:54:40.838161+05:30"
     },
     {
       "model": "Tecno Pop 9 5G",
@@ -1516,7 +1516,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:16.527950+05:30"
+      "scraped_at": "2026-10-01T15:53:56.864929+05:30"
     },
     {
       "model": "Tecno Spark Go 3 4G",
@@ -1525,7 +1525,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:01.307190+05:30"
+      "scraped_at": "2026-10-01T15:54:46.867351+05:30"
     },
     {
       "model": "Tecno Spark Go 5G",
@@ -1534,7 +1534,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:06.896535+05:30"
+      "scraped_at": "2026-10-01T15:54:53.068485+05:30"
     },
     {
       "model": "Tecno Pova 7",
@@ -1543,7 +1543,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:27.656862+05:30"
+      "scraped_at": "2026-10-01T15:54:10.381453+05:30"
     },
     {
       "model": "Tecno Pova Curve 5G",
@@ -1552,7 +1552,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:44.476329+05:30"
+      "scraped_at": "2026-10-01T15:54:28.852568+05:30"
     },
     {
       "model": "Tecno Pova 7 Pro",
@@ -1561,7 +1561,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:33.251802+05:30"
+      "scraped_at": "2026-10-01T15:54:16.534728+05:30"
     },
     {
       "model": "Tecno Pova Slim 5G",
@@ -1570,7 +1570,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:50.153497+05:30"
+      "scraped_at": "2026-10-01T15:54:34.728517+05:30"
     },
     {
       "model": "Vivo Y19 5G",
@@ -1579,7 +1579,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:13.753234+05:30"
+      "scraped_at": "2026-10-01T15:58:15.691468+05:30"
     },
     {
       "model": "Vivo Y19s 5G",
@@ -1588,7 +1588,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:25.442590+05:30"
+      "scraped_at": "2026-10-01T15:58:27.691041+05:30"
     },
     {
       "model": "Vivo T4 Lite 5G",
@@ -1597,7 +1597,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:46.135628+05:30"
+      "scraped_at": "2026-10-01T15:55:35.808405+05:30"
     },
     {
       "model": "Vivo T5x",
@@ -1606,7 +1606,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:19.770484+05:30"
+      "scraped_at": "2026-10-01T15:56:13.276387+05:30"
     },
     {
       "model": "Vivo Y31 5G",
@@ -1615,7 +1615,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:28.743192+05:30"
+      "scraped_at": "2026-10-01T15:59:33.559587+05:30"
     },
     {
       "model": "Vivo Y31 Pro 5G",
@@ -1624,25 +1624,25 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:34.301219+05:30"
+      "scraped_at": "2026-10-01T15:59:39.504888+05:30"
     },
     {
       "model": "Vivo Y400 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,162",
+      "price_num": 1162,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:45.532709+05:30"
+      "scraped_at": "2026-10-01T15:59:52.560833+05:30"
     },
     {
       "model": "Vivo Y400 Pro",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,250",
+      "price_num": 1250,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:51.247374+05:30"
+      "scraped_at": "2026-10-01T15:59:58.493226+05:30"
     },
     {
       "model": "Vivo Y51 Pro 5G",
@@ -1651,43 +1651,43 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:56.843499+05:30"
+      "scraped_at": "2026-10-01T16:00:04.609259+05:30"
     },
     {
       "model": "Vivo V60e",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,356",
+      "price_num": 1356,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:59.306987+05:30"
+      "scraped_at": "2026-10-01T15:56:54.968453+05:30"
     },
     {
       "model": "Vivo V50",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,155",
+      "price_num": 1155,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:42.206071+05:30"
+      "scraped_at": "2026-10-01T15:56:37.050755+05:30"
     },
     {
       "model": "Vivo V70 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,213",
+      "price_num": 1213,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:05.001646+05:30"
+      "scraped_at": "2026-10-01T15:57:02.151047+05:30"
     },
     {
       "model": "Vivo X200 FE",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,390",
+      "price_num": 1390,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:38.887097+05:30"
+      "scraped_at": "2026-10-01T15:57:38.665521+05:30"
     },
     {
       "model": "Vivo X200T",
@@ -1696,7 +1696,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:50.544193+05:30"
+      "scraped_at": "2026-10-01T15:57:50.369008+05:30"
     },
     {
       "model": "Vivo V70 Elite 5G",
@@ -1705,16 +1705,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:10.574370+05:30"
+      "scraped_at": "2026-10-01T15:57:08.254806+05:30"
     },
     {
       "model": "Vivo X300 Pro",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,500",
+      "price_num": 1500,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:02.228122+05:30"
+      "scraped_at": "2026-10-01T15:58:02.526298+05:30"
     },
     {
       "model": "Vivo X Fold5",
@@ -1723,7 +1723,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:27.687522+05:30"
+      "scraped_at": "2026-10-01T15:57:26.618598+05:30"
     },
     {
       "model": "Redmi A3x",
@@ -1732,7 +1732,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:15.554662+05:30"
+      "scraped_at": "2026-10-01T16:01:30.384765+05:30"
     },
     {
       "model": "Redmi A5",
@@ -1741,16 +1741,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:26.899914+05:30"
+      "scraped_at": "2026-10-01T16:01:42.795502+05:30"
     },
     {
       "model": "Redmi 14C 5G",
       "brand": "Xiaomi",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,053",
+      "price_num": 1053,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:53.106728+05:30"
+      "scraped_at": "2026-10-01T16:01:05.547021+05:30"
     },
     {
       "model": "Redmi 13C 5G",
@@ -1759,7 +1759,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:47.531673+05:30"
+      "scraped_at": "2026-10-01T16:00:59.301404+05:30"
     },
     {
       "model": "Redmi A4 5G",
@@ -1768,7 +1768,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:21.299602+05:30"
+      "scraped_at": "2026-10-01T16:01:36.872247+05:30"
     },
     {
       "model": "Redmi 13 5G",
@@ -1777,7 +1777,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:41.867779+05:30"
+      "scraped_at": "2026-10-01T16:00:53.305598+05:30"
     },
     {
       "model": "Redmi 15C 5G",
@@ -1786,7 +1786,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:09.907432+05:30"
+      "scraped_at": "2026-10-01T16:01:24.021818+05:30"
     },
     {
       "model": "Redmi Note 14 5G",
@@ -1795,7 +1795,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:38.038706+05:30"
+      "scraped_at": "2026-10-01T16:01:54.893289+05:30"
     },
     {
       "model": "Redmi 15 5G",
@@ -1804,7 +1804,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:58.699948+05:30"
+      "scraped_at": "2026-10-01T16:01:11.641646+05:30"
     },
     {
       "model": "Redmi Note 15 5G",
@@ -1813,16 +1813,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:54.704759+05:30"
+      "scraped_at": "2026-10-01T16:02:12.854067+05:30"
     },
     {
       "model": "Xiaomi 14 Civi",
       "brand": "Xiaomi",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,238",
+      "price_num": 1238,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:40:17.053679+05:30"
+      "scraped_at": "2026-10-01T16:02:37.196177+05:30"
     },
     {
       "model": "Xiaomi 17",
@@ -1831,7 +1831,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:40:33.846730+05:30"
+      "scraped_at": "2026-10-01T16:02:56.692470+05:30"
     },
     {
       "model": "Xiaomi 17 Ultra",
@@ -1840,7 +1840,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:40:39.456332+05:30"
+      "scraped_at": "2026-10-01T16:03:02.828194+05:30"
     },
     {
       "model": "Samsung S24 Plus",
@@ -2236,16 +2236,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:37.211566+05:30"
+      "scraped_at": "2026-10-01T15:53:14.276628+05:30"
     },
     {
       "model": "Samsung Z Fold 6",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,648",
+      "price_num": 1648,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:54.092095+05:30"
+      "scraped_at": "2026-10-01T15:53:32.576483+05:30"
     },
     {
       "model": "Vivo T3 5G",
@@ -2254,7 +2254,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:12.495944+05:30"
+      "scraped_at": "2026-10-01T15:54:59.292482+05:30"
     },
     {
       "model": "Vivo T3 Lite 5G",
@@ -2263,7 +2263,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:18.018034+05:30"
+      "scraped_at": "2026-10-01T15:55:05.378983+05:30"
     },
     {
       "model": "Vivo T3 Pro",
@@ -2272,7 +2272,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:23.641441+05:30"
+      "scraped_at": "2026-10-01T15:55:11.399738+05:30"
     },
     {
       "model": "Vivo T3 Ultra",
@@ -2281,7 +2281,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:29.221025+05:30"
+      "scraped_at": "2026-10-01T15:55:17.328228+05:30"
     },
     {
       "model": "Vivo T3x 5G",
@@ -2290,7 +2290,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:34.913762+05:30"
+      "scraped_at": "2026-10-01T15:55:23.319168+05:30"
     },
     {
       "model": "Vivo T4 5G",
@@ -2299,7 +2299,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:33:40.559199+05:30"
+      "scraped_at": "2026-10-01T15:55:29.583790+05:30"
     },
     {
       "model": "Vivo T4x",
@@ -2308,7 +2308,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:08.497658+05:30"
+      "scraped_at": "2026-10-01T15:56:00.989278+05:30"
     },
     {
       "model": "Vivo V40",
@@ -2317,7 +2317,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:25.365422+05:30"
+      "scraped_at": "2026-10-01T15:56:19.351264+05:30"
     },
     {
       "model": "Vivo V40 Pro",
@@ -2326,25 +2326,25 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:30.942579+05:30"
+      "scraped_at": "2026-10-01T15:56:25.239692+05:30"
     },
     {
       "model": "Vivo V40e",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,261",
+      "price_num": 1261,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:36.505764+05:30"
+      "scraped_at": "2026-10-01T15:56:31.142727+05:30"
     },
     {
       "model": "Vivo V50e",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,203",
+      "price_num": 1203,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:47.837812+05:30"
+      "scraped_at": "2026-10-01T15:56:42.957958+05:30"
     },
     {
       "model": "Vivo X Fold 3 Pro",
@@ -2353,7 +2353,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:22.077406+05:30"
+      "scraped_at": "2026-10-01T15:57:20.563361+05:30"
     },
     {
       "model": "Vivo X200",
@@ -2362,25 +2362,25 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:33.271183+05:30"
+      "scraped_at": "2026-10-01T15:57:32.684807+05:30"
     },
     {
       "model": "Vivo X200 Pro",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,232",
+      "price_num": 1232,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:44.543814+05:30"
+      "scraped_at": "2026-10-01T15:57:44.478916+05:30"
     },
     {
       "model": "Vivo Y11 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,205",
+      "price_num": 1205,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:08.127613+05:30"
+      "scraped_at": "2026-10-01T15:58:09.778800+05:30"
     },
     {
       "model": "Vivo Y19e",
@@ -2389,25 +2389,25 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:19.327548+05:30"
+      "scraped_at": "2026-10-01T15:58:21.791798+05:30"
     },
     {
       "model": "Vivo Y200 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,209",
+      "price_num": 1209,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:31.101211+05:30"
+      "scraped_at": "2026-10-01T15:58:33.603055+05:30"
     },
     {
       "model": "Vivo Y200 Pro 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,353",
+      "price_num": 1353,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:36.726267+05:30"
+      "scraped_at": "2026-10-01T15:58:39.460802+05:30"
     },
     {
       "model": "Vivo Y200e 5G",
@@ -2416,7 +2416,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:42.402805+05:30"
+      "scraped_at": "2026-10-01T15:58:45.477006+05:30"
     },
     {
       "model": "Vivo Y21 5G",
@@ -2425,16 +2425,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:48.018346+05:30"
+      "scraped_at": "2026-10-01T15:58:51.410583+05:30"
     },
     {
       "model": "Vivo Y28 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,130",
+      "price_num": 1130,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:53.725872+05:30"
+      "scraped_at": "2026-10-01T15:58:57.515776+05:30"
     },
     {
       "model": "Vivo Y28e 5G",
@@ -2443,7 +2443,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:36:59.274304+05:30"
+      "scraped_at": "2026-10-01T15:59:03.413787+05:30"
     },
     {
       "model": "Vivo Y28s 5G",
@@ -2452,7 +2452,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:04.845718+05:30"
+      "scraped_at": "2026-10-01T15:59:09.512640+05:30"
     },
     {
       "model": "Vivo Y29 5G",
@@ -2461,25 +2461,25 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:10.530685+05:30"
+      "scraped_at": "2026-10-01T15:59:15.575788+05:30"
     },
     {
       "model": "Vivo Y300 5G",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,077",
+      "price_num": 1077,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:17.401718+05:30"
+      "scraped_at": "2026-10-01T15:59:21.684385+05:30"
     },
     {
       "model": "Vivo Y300 Plus",
       "brand": "Vivo",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,154",
+      "price_num": 1154,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:23.084452+05:30"
+      "scraped_at": "2026-10-01T15:59:27.585850+05:30"
     },
     {
       "model": "Vivo Y39 5G",
@@ -2488,7 +2488,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:37:39.860671+05:30"
+      "scraped_at": "2026-10-01T15:59:45.507715+05:30"
     },
     {
       "model": "Vivo Y58 5G",
@@ -2497,7 +2497,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:02.420960+05:30"
+      "scraped_at": "2026-10-01T16:00:10.651984+05:30"
     },
     {
       "model": "Realme 15x 5G",
@@ -2515,7 +2515,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:35:16.450233+05:30"
+      "scraped_at": "2026-10-01T15:57:14.531377+05:30"
     },
     {
       "model": "Redmi 15A 5G",
@@ -2524,7 +2524,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:04.251266+05:30"
+      "scraped_at": "2026-10-01T16:01:17.852423+05:30"
     },
     {
       "model": "Redmi Note 15 SE 5G",
@@ -2533,7 +2533,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:40:11.358442+05:30"
+      "scraped_at": "2026-10-01T16:02:31.086832+05:30"
     },
     {
       "model": "OnePlus Nord 6",
@@ -3160,10 +3160,10 @@
       "model": "Samsung S25 Ultra",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹1,330",
+      "price_num": 1330,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:31:14.935278+05:30"
+      "scraped_at": "2026-10-01T15:52:50.119887+05:30"
     },
     {
       "model": "Redmi A7 Pro 5G",
@@ -3172,7 +3172,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:39:32.489434+05:30"
+      "scraped_at": "2026-10-01T16:01:48.721915+05:30"
     },
     {
       "model": "Tecno POP X 5G",
@@ -3181,7 +3181,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:32:22.057331+05:30"
+      "scraped_at": "2026-10-01T15:54:04.149876+05:30"
     },
     {
       "model": "Realme Narzo 100 Lite 5G",
@@ -3235,7 +3235,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:08.012895+05:30"
+      "scraped_at": "2026-10-01T16:00:16.709827+05:30"
     },
     {
       "model": "Vivo X300 Ultra",
@@ -3244,7 +3244,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:13.654399+05:30"
+      "scraped_at": "2026-10-01T16:00:23.265404+05:30"
     },
     {
       "model": "Realme 16T 5G",
@@ -3271,7 +3271,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:30.751438+05:30"
+      "scraped_at": "2026-10-01T16:00:41.404530+05:30"
     },
     {
       "model": "Redmi Turbo 5",
@@ -3280,7 +3280,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:36.312045+05:30"
+      "scraped_at": "2026-10-01T16:00:47.415833+05:30"
     },
     {
       "model": "OnePlus Nord CE 6",
@@ -3370,7 +3370,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:25.105612+05:30"
+      "scraped_at": "2026-10-01T16:00:35.089629+05:30"
     },
     {
       "model": "POCO M8 Power",
@@ -3388,7 +3388,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:34:14.041972+05:30"
+      "scraped_at": "2026-10-01T15:56:07.169682+05:30"
     },
     {
       "model": "Redmi Note 17 Pro 5G",
@@ -3397,7 +3397,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-09-30T21:38:19.295318+05:30"
+      "scraped_at": "2026-10-01T16:00:29.190378+05:30"
     },
     {
       "model": "Realme P4s 5G",
