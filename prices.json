@@ -1,12 +1,10 @@
 {
-  "last_updated": "08 Oct 2026 22:27 IST",
+  "last_updated": "09 Oct 2026 12:13 IST",
   "total_models": 423,
   "prices_found": 309,
   "prices_missing": 114,
   "coverage_pct": 73.0,
-  "failed_models": [
-    "Vivo V70 FE"
-  ],
+  "failed_models": [],
   "phones": [
     {
       "model": "Moto G06 Power",
@@ -150,7 +148,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:55.858966+05:30"
+      "scraped_at": "2026-10-09T12:09:03.530287+05:30"
     },
     {
       "model": "Samsung A07 5G",
@@ -159,7 +157,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:08.271334+05:30"
+      "scraped_at": "2026-10-09T12:09:15.583886+05:30"
     },
     {
       "model": "Samsung A17 5G",
@@ -168,7 +166,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:27.001576+05:30"
+      "scraped_at": "2026-10-09T12:09:33.971462+05:30"
     },
     {
       "model": "Samsung F17 5G",
@@ -177,7 +175,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:52.862823+05:30"
+      "scraped_at": "2026-10-09T12:10:59.270030+05:30"
     },
     {
       "model": "Samsung M17 5G",
@@ -186,7 +184,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:00.330556+05:30"
+      "scraped_at": "2026-10-09T12:12:06.601487+05:30"
     },
     {
       "model": "Samsung F36 5G",
@@ -195,7 +193,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:58.928178+05:30"
+      "scraped_at": "2026-10-09T12:11:05.348670+05:30"
     },
     {
       "model": "Samsung M36 5G",
@@ -204,7 +202,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:18.506640+05:30"
+      "scraped_at": "2026-10-09T12:12:24.684159+05:30"
     },
     {
       "model": "Samsung S25 FE",
@@ -213,7 +211,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:12:39.717703+05:30"
+      "scraped_at": "2026-10-09T12:13:43.563740+05:30"
     },
     {
       "model": "Samsung S25 Plus",
@@ -222,7 +220,7 @@
       "price": "₹1,871",
       "price_num": 1871,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:12:45.716460+05:30"
+      "scraped_at": "2026-10-09T12:13:49.528145+05:30"
     },
     {
       "model": "Samsung S26",
@@ -357,7 +355,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:26.418175+05:30"
+      "scraped_at": "2026-10-09T12:03:37.976841+05:30"
     },
     {
       "model": "Realme 14 Pro+ 5G",
@@ -366,7 +364,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:38.559204+05:30"
+      "scraped_at": "2026-10-09T12:03:50.260522+05:30"
     },
     {
       "model": "Realme 15 5G",
@@ -375,7 +373,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:57.109308+05:30"
+      "scraped_at": "2026-10-09T12:04:08.321031+05:30"
     },
     {
       "model": "Realme 15 Pro 5G",
@@ -384,7 +382,7 @@
       "price": "₹1,369",
       "price_num": 1369,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:09.508588+05:30"
+      "scraped_at": "2026-10-09T12:04:20.276419+05:30"
     },
     {
       "model": "Realme GT 7 5G",
@@ -393,7 +391,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:49.474066+05:30"
+      "scraped_at": "2026-10-09T12:05:57.523313+05:30"
     },
     {
       "model": "Realme GT 8 Pro 5G",
@@ -402,7 +400,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:08.009684+05:30"
+      "scraped_at": "2026-10-09T12:06:15.638048+05:30"
     },
     {
       "model": "Redmi Note 14 Pro 5G",
@@ -447,7 +445,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:01:55.811394+05:30"
+      "scraped_at": "2026-10-09T12:03:07.054526+05:30"
     },
     {
       "model": "POCO F7 5G",
@@ -1491,7 +1489,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:12:33.637073+05:30"
+      "scraped_at": "2026-10-09T12:13:37.518638+05:30"
     },
     {
       "model": "Tecno Pop 9 4G",
@@ -1851,7 +1849,7 @@
       "price": "₹1,400",
       "price_num": 1400,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:12:14.137253+05:30"
+      "scraped_at": "2026-10-09T12:13:19.419994+05:30"
     },
     {
       "model": "Samsung A26 5G",
@@ -1860,7 +1858,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:33.241866+05:30"
+      "scraped_at": "2026-10-09T12:09:39.964819+05:30"
     },
     {
       "model": "Samsung S24 FE",
@@ -1869,7 +1867,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:12:07.458733+05:30"
+      "scraped_at": "2026-10-09T12:13:13.455639+05:30"
     },
     {
       "model": "Nothing Phone 3A Community Edition",
@@ -2157,7 +2155,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:07.958811+05:30"
+      "scraped_at": "2026-10-09T12:03:19.647689+05:30"
     },
     {
       "model": "POCO X8 Pro Max",
@@ -2166,7 +2164,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:14.052379+05:30"
+      "scraped_at": "2026-10-09T12:03:25.683766+05:30"
     },
     {
       "model": "Realme 13 Pro+ 5G",
@@ -2175,7 +2173,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:20.217618+05:30"
+      "scraped_at": "2026-10-09T12:03:31.909746+05:30"
     },
     {
       "model": "Realme 14 Pro Lite 5G",
@@ -2184,7 +2182,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:32.517254+05:30"
+      "scraped_at": "2026-10-09T12:03:44.151070+05:30"
     },
     {
       "model": "Realme 14T 5G",
@@ -2193,7 +2191,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:44.813940+05:30"
+      "scraped_at": "2026-10-09T12:03:56.223032+05:30"
     },
     {
       "model": "Realme 14x 5G",
@@ -2202,7 +2200,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:50.944057+05:30"
+      "scraped_at": "2026-10-09T12:04:02.224056+05:30"
     },
     {
       "model": "Realme 15 Lite 5G",
@@ -2211,7 +2209,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:03.240655+05:30"
+      "scraped_at": "2026-10-09T12:04:14.230488+05:30"
     },
     {
       "model": "Realme 15 Pro Limited Edition",
@@ -2220,7 +2218,7 @@
       "price": "₹1,369",
       "price_num": 1369,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:16.313790+05:30"
+      "scraped_at": "2026-10-09T12:04:26.592306+05:30"
     },
     {
       "model": "Realme 15T 5G",
@@ -2229,7 +2227,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:22.431469+05:30"
+      "scraped_at": "2026-10-09T12:04:32.719436+05:30"
     },
     {
       "model": "Samsung Z Flip 6",
@@ -2508,7 +2506,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:28.468112+05:30"
+      "scraped_at": "2026-10-09T12:04:38.766433+05:30"
     },
     {
       "model": "Vivo V70 FE",
@@ -2553,7 +2551,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:34.950164+05:30"
+      "scraped_at": "2026-10-09T12:04:44.941224+05:30"
     },
     {
       "model": "Realme 16 Pro",
@@ -2562,7 +2560,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:42.239764+05:30"
+      "scraped_at": "2026-10-09T12:04:50.910871+05:30"
     },
     {
       "model": "Realme 16 Pro+",
@@ -2571,7 +2569,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:00.778141+05:30"
+      "scraped_at": "2026-10-09T12:05:09.506022+05:30"
     },
     {
       "model": "Realme C71",
@@ -2580,7 +2578,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:06.720906+05:30"
+      "scraped_at": "2026-10-09T12:05:15.432665+05:30"
     },
     {
       "model": "Realme C71 5G",
@@ -2589,7 +2587,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:12.914669+05:30"
+      "scraped_at": "2026-10-09T12:05:21.470359+05:30"
     },
     {
       "model": "Realme C73 5G",
@@ -2598,7 +2596,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:18.984080+05:30"
+      "scraped_at": "2026-10-09T12:05:27.473704+05:30"
     },
     {
       "model": "Realme C75 5G",
@@ -2607,7 +2605,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:25.220941+05:30"
+      "scraped_at": "2026-10-09T12:05:33.527265+05:30"
     },
     {
       "model": "Realme C83 5G",
@@ -2616,7 +2614,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:31.418164+05:30"
+      "scraped_at": "2026-10-09T12:05:39.485324+05:30"
     },
     {
       "model": "Realme C85 5G",
@@ -2625,7 +2623,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:37.354112+05:30"
+      "scraped_at": "2026-10-09T12:05:45.247796+05:30"
     },
     {
       "model": "Realme GT 7",
@@ -2634,7 +2632,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:43.381127+05:30"
+      "scraped_at": "2026-10-09T12:05:51.385633+05:30"
     },
     {
       "model": "Realme GT 7 Pro 5G",
@@ -2643,7 +2641,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:04:55.674107+05:30"
+      "scraped_at": "2026-10-09T12:06:03.589533+05:30"
     },
     {
       "model": "Realme GT 7T 5G",
@@ -2652,7 +2650,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:01.817652+05:30"
+      "scraped_at": "2026-10-09T12:06:09.643821+05:30"
     },
     {
       "model": "Realme Narzo 80 Lite",
@@ -2661,16 +2659,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:20.427729+05:30"
+      "scraped_at": "2026-10-09T12:06:27.725971+05:30"
     },
     {
       "model": "Realme Narzo 80 Lite 5G",
       "brand": "RealMe",
       "type": "comp",
-      "price": "₹1,498",
-      "price_num": 1498,
+      "price": "₹5,000",
+      "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:26.483048+05:30"
+      "scraped_at": "2026-10-09T12:06:34.728473+05:30"
     },
     {
       "model": "Realme Narzo 80 Pro 5G",
@@ -2679,7 +2677,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:32.394709+05:30"
+      "scraped_at": "2026-10-09T12:06:40.760943+05:30"
     },
     {
       "model": "Realme NARZO 80 Pro 5G",
@@ -2688,7 +2686,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:38.575220+05:30"
+      "scraped_at": "2026-10-09T12:06:46.759562+05:30"
     },
     {
       "model": "Realme Narzo 80x 5G",
@@ -2697,7 +2695,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:44.807831+05:30"
+      "scraped_at": "2026-10-09T12:06:52.964700+05:30"
     },
     {
       "model": "Realme Narzo 90 5G",
@@ -2706,7 +2704,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:50.926259+05:30"
+      "scraped_at": "2026-10-09T12:06:58.849024+05:30"
     },
     {
       "model": "Realme Narzo 90x 5G",
@@ -2715,7 +2713,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:56.779820+05:30"
+      "scraped_at": "2026-10-09T12:07:04.875382+05:30"
     },
     {
       "model": "Realme Narzo Power 5G",
@@ -2724,7 +2722,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:02.959934+05:30"
+      "scraped_at": "2026-10-09T12:07:11.081506+05:30"
     },
     {
       "model": "Realme P3 5G",
@@ -2733,7 +2731,7 @@
       "price": "₹1,291",
       "price_num": 1291,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:09.079454+05:30"
+      "scraped_at": "2026-10-09T12:07:17.052902+05:30"
     },
     {
       "model": "Realme P3 Lite 5G",
@@ -2742,7 +2740,7 @@
       "price": "₹1,257",
       "price_num": 1257,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:15.222576+05:30"
+      "scraped_at": "2026-10-09T12:07:23.377759+05:30"
     },
     {
       "model": "Realme P3 Pro 5G",
@@ -2751,7 +2749,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:21.249566+05:30"
+      "scraped_at": "2026-10-09T12:07:31.877364+05:30"
     },
     {
       "model": "Realme P3 Ultra 5G",
@@ -2760,7 +2758,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:27.388428+05:30"
+      "scraped_at": "2026-10-09T12:07:37.902220+05:30"
     },
     {
       "model": "Realme P4 5G",
@@ -2769,7 +2767,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:34.039014+05:30"
+      "scraped_at": "2026-10-09T12:07:44.122416+05:30"
     },
     {
       "model": "Realme P4 Lite 4G",
@@ -2778,7 +2776,7 @@
       "price": "₹1,382",
       "price_num": 1382,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:40.079950+05:30"
+      "scraped_at": "2026-10-09T12:07:50.135947+05:30"
     },
     {
       "model": "Realme P4 Lite 5G",
@@ -2787,7 +2785,7 @@
       "price": "₹1,382",
       "price_num": 1382,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:46.392788+05:30"
+      "scraped_at": "2026-10-09T12:07:56.211791+05:30"
     },
     {
       "model": "Realme P4 Power 5G",
@@ -2796,7 +2794,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:06:54.435144+05:30"
+      "scraped_at": "2026-10-09T12:08:02.454307+05:30"
     },
     {
       "model": "Realme P4 Pro 5G",
@@ -2805,7 +2803,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:00.775637+05:30"
+      "scraped_at": "2026-10-09T12:08:08.550764+05:30"
     },
     {
       "model": "Realme P4x 5G",
@@ -2814,7 +2812,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:06.856706+05:30"
+      "scraped_at": "2026-10-09T12:08:14.516109+05:30"
     },
     {
       "model": "Realme 16 Pro 5G",
@@ -2823,7 +2821,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:54.561645+05:30"
+      "scraped_at": "2026-10-09T12:05:03.103427+05:30"
     },
     {
       "model": "Samsung A05 4G",
@@ -2832,7 +2830,7 @@
       "price": "₹4,800",
       "price_num": 4800,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:43.674841+05:30"
+      "scraped_at": "2026-10-09T12:08:51.215300+05:30"
     },
     {
       "model": "Samsung A06",
@@ -2841,7 +2839,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:49.783439+05:30"
+      "scraped_at": "2026-10-09T12:08:57.421373+05:30"
     },
     {
       "model": "Samsung A07",
@@ -2850,16 +2848,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:02.202102+05:30"
+      "scraped_at": "2026-10-09T12:09:09.493681+05:30"
     },
     {
       "model": "Samsung A15 5G",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹2,367",
-      "price_num": 2367,
+      "price": "₹5,000",
+      "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:14.677230+05:30"
+      "scraped_at": "2026-10-09T12:09:21.866628+05:30"
     },
     {
       "model": "Samsung A16 5G",
@@ -2868,7 +2866,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:20.825833+05:30"
+      "scraped_at": "2026-10-09T12:09:27.955597+05:30"
     },
     {
       "model": "Samsung A35 5G",
@@ -2877,7 +2875,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:39.324547+05:30"
+      "scraped_at": "2026-10-09T12:09:46.142368+05:30"
     },
     {
       "model": "Samsung A36 5G",
@@ -2886,7 +2884,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:45.588233+05:30"
+      "scraped_at": "2026-10-09T12:09:52.133703+05:30"
     },
     {
       "model": "Samsung A37 5G",
@@ -2895,7 +2893,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:51.852561+05:30"
+      "scraped_at": "2026-10-09T12:09:58.124016+05:30"
     },
     {
       "model": "Samsung A55 5G",
@@ -2904,7 +2902,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:08:57.954209+05:30"
+      "scraped_at": "2026-10-09T12:10:04.319797+05:30"
     },
     {
       "model": "Samsung A56 5G",
@@ -2913,7 +2911,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:04.056489+05:30"
+      "scraped_at": "2026-10-09T12:10:10.479141+05:30"
     },
     {
       "model": "Samsung A57 5G",
@@ -2922,16 +2920,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:10.050666+05:30"
+      "scraped_at": "2026-10-09T12:10:16.536779+05:30"
     },
     {
       "model": "Samsung F05",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹5,000",
-      "price_num": 5000,
+      "price": "₹4,800",
+      "price_num": 4800,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:16.121246+05:30"
+      "scraped_at": "2026-10-09T12:10:22.470184+05:30"
     },
     {
       "model": "Samsung F07",
@@ -2940,7 +2938,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:22.355978+05:30"
+      "scraped_at": "2026-10-09T12:10:28.549362+05:30"
     },
     {
       "model": "Samsung F13",
@@ -2949,7 +2947,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:28.380799+05:30"
+      "scraped_at": "2026-10-09T12:10:34.637547+05:30"
     },
     {
       "model": "Samsung F14 LTE",
@@ -2958,7 +2956,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:34.390370+05:30"
+      "scraped_at": "2026-10-09T12:10:40.787257+05:30"
     },
     {
       "model": "Samsung F15 5G",
@@ -2967,7 +2965,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:40.643397+05:30"
+      "scraped_at": "2026-10-09T12:10:46.921024+05:30"
     },
     {
       "model": "Samsung F16 5G",
@@ -2976,7 +2974,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:09:46.728590+05:30"
+      "scraped_at": "2026-10-09T12:10:53.271570+05:30"
     },
     {
       "model": "Samsung F55 5G",
@@ -2985,7 +2983,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:04.888801+05:30"
+      "scraped_at": "2026-10-09T12:11:11.301514+05:30"
     },
     {
       "model": "Samsung F56 5G",
@@ -2994,7 +2992,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:10.946546+05:30"
+      "scraped_at": "2026-10-09T12:11:17.368171+05:30"
     },
     {
       "model": "Samsung F70e 5G",
@@ -3003,7 +3001,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:16.955488+05:30"
+      "scraped_at": "2026-10-09T12:11:23.991567+05:30"
     },
     {
       "model": "Samsung Galaxy X Cover 7",
@@ -3012,7 +3010,7 @@
       "price": "₹2,000",
       "price_num": 2000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:23.446587+05:30"
+      "scraped_at": "2026-10-09T12:11:30.501004+05:30"
     },
     {
       "model": "Samsung M05",
@@ -3021,7 +3019,7 @@
       "price": "₹4,800",
       "price_num": 4800,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:29.618630+05:30"
+      "scraped_at": "2026-10-09T12:11:36.556237+05:30"
     },
     {
       "model": "Samsung M06 5G",
@@ -3030,7 +3028,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:35.693923+05:30"
+      "scraped_at": "2026-10-09T12:11:42.558417+05:30"
     },
     {
       "model": "Samsung M07",
@@ -3039,16 +3037,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:41.872619+05:30"
+      "scraped_at": "2026-10-09T12:11:48.635042+05:30"
     },
     {
       "model": "Samsung M15 5G",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹2,367",
-      "price_num": 2367,
+      "price": "₹5,000",
+      "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:48.096127+05:30"
+      "scraped_at": "2026-10-09T12:11:54.690615+05:30"
     },
     {
       "model": "Samsung M16 5G",
@@ -3057,7 +3055,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:10:54.216221+05:30"
+      "scraped_at": "2026-10-09T12:12:00.709799+05:30"
     },
     {
       "model": "Samsung M17e 5G",
@@ -3066,7 +3064,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:06.385831+05:30"
+      "scraped_at": "2026-10-09T12:12:12.613590+05:30"
     },
     {
       "model": "Samsung M35 5G",
@@ -3075,7 +3073,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:12.443388+05:30"
+      "scraped_at": "2026-10-09T12:12:18.655108+05:30"
     },
     {
       "model": "Samsung M55 5G",
@@ -3084,7 +3082,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:24.759885+05:30"
+      "scraped_at": "2026-10-09T12:12:30.861445+05:30"
     },
     {
       "model": "Samsung M55s 5G",
@@ -3093,7 +3091,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:30.756267+05:30"
+      "scraped_at": "2026-10-09T12:12:36.931567+05:30"
     },
     {
       "model": "Samsung M56 5G",
@@ -3102,7 +3100,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:36.733574+05:30"
+      "scraped_at": "2026-10-09T12:12:43.238775+05:30"
     },
     {
       "model": "Samsung S23",
@@ -3111,7 +3109,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:42.877341+05:30"
+      "scraped_at": "2026-10-09T12:12:49.257825+05:30"
     },
     {
       "model": "Samsung S23 FE",
@@ -3120,7 +3118,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:48.986040+05:30"
+      "scraped_at": "2026-10-09T12:12:55.203521+05:30"
     },
     {
       "model": "Samsung S23 Ultra",
@@ -3129,7 +3127,7 @@
       "price": "₹1,172",
       "price_num": 1172,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:11:55.193339+05:30"
+      "scraped_at": "2026-10-09T12:13:01.424570+05:30"
     },
     {
       "model": "Samsung S24",
@@ -3138,16 +3136,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:12:01.371514+05:30"
+      "scraped_at": "2026-10-09T12:13:07.311518+05:30"
     },
     {
       "model": "Samsung S24 Ultra",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹1,380",
-      "price_num": 1380,
+      "price": "₹1,128",
+      "price_num": 1128,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:12:20.219393+05:30"
+      "scraped_at": "2026-10-09T12:13:25.528078+05:30"
     },
     {
       "model": "Samsung S25",
@@ -3156,7 +3154,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:12:26.258192+05:30"
+      "scraped_at": "2026-10-09T12:13:31.397348+05:30"
     },
     {
       "model": "Samsung S25 Ultra",
@@ -3192,7 +3190,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:05:14.322015+05:30"
+      "scraped_at": "2026-10-09T12:06:21.844688+05:30"
     },
     {
       "model": "Oppo F33 5G",
@@ -3255,7 +3253,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:12.980547+05:30"
+      "scraped_at": "2026-10-09T12:08:20.574119+05:30"
     },
     {
       "model": "Realme P4R 5G",
@@ -3408,7 +3406,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:03:48.436405+05:30"
+      "scraped_at": "2026-10-09T12:04:57.089097+05:30"
     },
     {
       "model": "Samsung Z Fold 8",
@@ -3417,7 +3415,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:19.051969+05:30"
+      "scraped_at": "2026-10-09T12:08:26.740330+05:30"
     },
     {
       "model": "Samsung Z Fold 8 Ultra",
@@ -3426,7 +3424,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:25.118874+05:30"
+      "scraped_at": "2026-10-09T12:08:32.774079+05:30"
     },
     {
       "model": "Samsung Galaxy F70 Pro",
@@ -3435,16 +3433,16 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:31.165534+05:30"
+      "scraped_at": "2026-10-09T12:08:38.696277+05:30"
     },
     {
       "model": "Samsung Z Flip 8",
       "brand": "Samsung",
       "type": "comp",
-      "price": "₹1,349",
-      "price_num": 1349,
+      "price": "₹1,449",
+      "price_num": 1449,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:07:37.729681+05:30"
+      "scraped_at": "2026-10-09T12:08:45.049461+05:30"
     },
     {
       "model": "POCO X8 5G",
@@ -3453,7 +3451,7 @@
       "price": "₹5,000",
       "price_num": 5000,
       "source": "flipkart",
-      "scraped_at": "2026-10-08T12:02:01.975921+05:30"
+      "scraped_at": "2026-10-09T12:03:13.643881+05:30"
     },
     {
       "model": "Samsung S26 FE",
